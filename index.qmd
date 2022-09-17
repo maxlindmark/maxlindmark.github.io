@@ -11,9 +11,9 @@ comments: false
 
 ::: {.g-col-8}
 
-I'm a postdoc working to improve our understanding of how ecosystems respond to climate change. Specifically, I study how climate change affects the abundance and distribution of species, life history traits and body size distributions, and interactions among species in ecological communities. I use a range of R-based statistical and mathematical models in my research
+I'm a postdoc working to improve our understanding of how ecosystems respond to climate change. Specifically, I study how climate change affects the abundance and distribution of species, life history traits and body size distributions, and interactions among species in ecological communities. I enjoy working with statistical models in R when doing research.
 
-In my free time I like to ride my bicycle with my family and cook food???- ideally something fermented.
+In my free time I like to ride my bicycle with my family and cook food—- ideally something fermented.
 
 Feel free to [contact](contact) me if you want to get in touch or collaborate on a grant proposal!
 
