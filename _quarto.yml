@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    background: "white"
+    left:
+      - text: "About"
+        href: index.html
+      - text: "Publications"
+        href: publications
+      - text: "Presentations"
+        href: presentations
+      - text: "Blog"
+        href: blog
+      - text: "GitHub"
+        href: https://github.com/maxlindmark
+      - text: "CV"
+        href: cv
+      - text: "Twitter"
+        href: https://twitter.com/max_lindmark
+      - text: "Contact"
+        href: contact
+format:
+  html:
+    theme: trestles
+    css: styles.css
+    toc: true

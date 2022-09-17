@@ -1,0 +1,18 @@
+---
+title: "Max Lindmark"
+subtitle: "Postdoc at the Institute of Marine Research | SLU"
+image: avatar.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+comments: false
+---
+
+::: {.g-col-8}
+
+I'm a quantitative marine ecologist trying to understand how organisms, populations and communities respond to climate change. Specifically, I explore growth rates, body size and the spatiotemporal distribution of species change over time in relation to climate and ecological processes.
+
+Feel free to [contact](contact) me if you want to get in touch or collaborate!
+
+:::
