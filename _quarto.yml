@@ -26,5 +26,7 @@ website:
 format:
   html:
     theme: trestles
+    image-width: 20em
+    image-shape: round
     css: styles.css
     toc: true
