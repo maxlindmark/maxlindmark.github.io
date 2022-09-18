@@ -1,7 +1,3 @@
-2021
-:   GMRI, Portland, May 2021 Seminar *Understanding the effects of climate warming on food webs via individual-level physiology*
-[pdf](Lindmark_ GMRI_Portland_21.05.19)
-
 2022
 :   ICES/PICES Early Career Scientist Conference (Talk)
 *Evaluating drivers of spatiotemporal changes in the condition of Eastern Baltic cod* [pdf](1D_Lindmark.pdf)
@@ -9,3 +5,7 @@
 :   ICES ASC Dublin
 *Higher mortality rates leave heated ecosystem with similar size structure despite larger, younger, and faster growing fish*
 [pdf](Session_J_ASC_Lindmark.pdf)
+
+2021
+:   GMRI, Portland, May 2021 Seminar *Understanding the effects of climate warming on food webs via individual-level physiology*
+[pdf](Lindmark_ GMRI_Portland_21.05.19)
