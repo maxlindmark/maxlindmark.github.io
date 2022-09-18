@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Swedish University of Agricultural Sciences \hfill +46104784173 (tel)\
 Department of Aquatic Resources \hfill max.lindmark@slu.se\
 Turistgatan 5 \hfill max.lindmark@tuta.io\
-453 30 Lysekil Sweden  \hfill https://maxlindmark.netlify.com
+453 30 Lysekil Sweden  \hfill https://maxlindmark.github.io
 
 # Education
 \vspace{-10pt}
@@ -248,6 +248,9 @@ Gulf of Maine Research Institute May Seminar (GMRI) (video) \hfill May 2021\
 \setlength{\parskip}{8pt}
 ```
 \noindent
+
+ICES ASC (Remote talk) \hfill 2022\
+*Higher mortality rates leave heated ecosystem with similar size structure despite larger, younger, and faster growing fish*
 
 ICES/PICES Early Career Scientist Conference (Talk) \hfill 2022\
 *Evaluating drivers of spatiotemporal changes in the condition of Eastern Baltic cod*
