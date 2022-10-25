@@ -90,37 +90,6 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 ```
 
 
-# Awards
-\vspace{-10pt}
-
-```{=tex}
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-```
-\noindent
-
-Lindsay Laird Prize \hfill 2015\
-In recognition of all-round performance in the Applied Marine and Fisheries Ecology \
-program throughout the year. Awarded jointly with another student
-
-Fishmongersâ Award, Scholarship recipient \hfill 2014\
-Full fees payment (Â£3400) awarded to 1 MRes/MSc student on academic merit by the \
-Fishmongersâ Company
-
-Stipend from Gothenburg Biological Society \hfill 2014\
-For well accomplished bachelorâs thesis: By-catch in pelagic fisheries: A study on \
-by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014
-
-Stiftelsen Hvitfeldtska gymnasiets samfond \hfill 2010\
-Stipend awarded for academic achievement (top 10% of science students in class)
-
-```{=tex}
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{8pt}
-```
-
 # Publications
 \vspace{-10pt}
 
@@ -137,35 +106,37 @@ Stipend awarded for academic achievement (top 10% of science students in class)
 of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.*\
 https://doi.org/10.1101/2022.04.19.488709
 
-**Lindmark, M.**, Karlsson, M., and GÃ¥rdmark, A. 2022. Higher mortality rates leave\
+**Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2022. Higher mortality rates leave\
 heated ecosystem with similar size-structure despite larger, younger, and faster growing\
 fish. *BioRxiv.* https://doi.org/10.1101/2022.04.13.488128
 
 [_Publications_]
 
-6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and GÃ¥rdmark, A. 2022. Temperature\
-impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
-and yields under warming. *Global Change Biology*, 28(21), 6239–6253, \ <https://doi.org/10.1111/gcb.16341>
+7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, and Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *Biological Bulletin*, early view. <https://doi.org/10.1086/722027>
 
-5\. **Lindmark, M.**, Ohlberger, J., and GÃ¥rdmark, A. 2022. Optimum growth temperature\
-declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259â2271,\
+6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and G&aring;rdmark, A. 2022. Temperature\
+impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
+and yields under warming. *Global Change Biology*, 28(21), 6239–6253,\ <https://doi.org/10.1111/gcb.16341>
+
+5\. **Lindmark, M.**, Ohlberger, J., and G&aring;rdmark, A. 2022. Optimum growth temperature\
+declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259–2271,\
 <https://doi.org/10.1111/gcb.16067>
 
-4\. Thunell, V., **Lindmark, M.**, Huss, M., and GÃ¥rdmark, A. 2021. Effects of warming\
+4\. Thunell, V., **Lindmark, M.**, Huss, M., and G&aring;rdmark, A. 2021. Effects of warming\
 on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*.\
-196(6). 706â718, <https://doi.org/10.1086/716927>
+196(6). 706–718, <https://doi.org/10.1086/716927>
 
-3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., GÃ¥rdmark, A. 2019. Experimental\
+3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., G&aring;rdmark, A. 2019. Experimental\
 evidence of gradual size-dependent shifts in body size and growth of fish in response\
-to warming. *Global Change Biology*, 25(7), pp. 2285â2295, <https://doi.org/10.1111/gcb.14637>
+to warming. *Global Change Biology*, 25(7), pp. 2285–2295, <https://doi.org/10.1111/gcb.14637>
 
-2\. **Lindmark, M.**, Ohlberger, J., Huss, M. and GÃ¥rdmark, A. 2019. Size-based ecological\
+2\. **Lindmark, M.**, Ohlberger, J., Huss, M. and G&aring;rdmark, A. 2019. Size-based ecological\
 interactions determine effects of warming on food web stability. *Ecology Letters*,\
-22(5), pp. 778â786, <https://doi.org/10.1111/ele.13235>
+22(5), pp. 778–786, <https://doi.org/10.1111/ele.13235>
 
-1\. **Lindmark, M.**, Huss, M., Ohlberger, J. and GÃ¥rdmark, A. 2018. Temperatureâdependent\
+1\. **Lindmark, M.**, Huss, M., Ohlberger, J. and G&aring;rdmark, A. 2018. Temperature-dependent\
 body size effects determine population responses to climate warming. *Ecology letters*,\
-21(2), pp. 181â189, <https://doi.org/10.1111/ele.12880>
+21(2), pp. 181–189, <https://doi.org/10.1111/ele.12880>
 
 ```{=tex}
 \setlength{\parindent}{0in}
@@ -183,20 +154,52 @@ body size effects determine population responses to climate warming. *Ecology le
 ```
 \noindent
 
-Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbestÃ¥nd i hav och sÃ¶tvatten 2018.\
-ResursÃ¶versikt. Havs- och vattenmyndighetens rapport 2019:4. GÃ¶teborg, 305 s.
+Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018.\
+Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
 
-Havs- och vattenmyndigheten 2018. Fisk- och skaldjursbestÃ¥nd i hav och sÃ¶tvatten 2017.\
-ResursÃ¶versikt. GÃ¶teborg, 273 s.
+Havs- och vattenmyndigheten 2018. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2017.\
+Resurs&ouml;versikt. G&ouml;teborg, 273 s.
 
-Havs- och vattenmyndigheten 2016. Fisk- och skaldjursbestÃ¥nd i hav och sÃ¶tvatten 2016.\
-ResursÃ¶versikt
+Havs- och vattenmyndigheten 2016. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2016.\
+Resurs&ouml;versikt
 
 ```{=tex}
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{8pt}
 ```
+
+# Awards
+\vspace{-10pt}
+
+```{=tex}
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+```
+\noindent
+
+Lindsay Laird Prize \hfill 2015\
+In recognition of all-round performance in the Applied Marine and Fisheries Ecology \
+program throughout the year. Awarded jointly with another student
+
+Fishmonger's Award, Scholarship recipient \hfill 2014\
+Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the \
+Fishmonger's Company
+
+Stipend from Gothenburg Biological Society \hfill 2014\
+For well accomplished bachelor's thesis: By-catch in pelagic fisheries: A study on \
+by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014
+
+Stiftelsen Hvitfeldtska gymnasiets samfond \hfill 2010\
+Stipend awarded for academic achievement (top 10% of science students in class)
+
+```{=tex}
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{8pt}
+```
+
 
 # Grants
 \vspace{-10pt}
@@ -208,7 +211,7 @@ ResursÃ¶versikt
 ```
 \noindent
 
-Sven och Dagmar SalÃ©ns stiftelse (Travel grant) (5 616 SEK) \hfill 2019
+Sven och Dagmar Saléns stiftelse (Travel grant) (5 616 SEK) \hfill 2019
 
 Knut and Alice Wallenbergs foundation (Travel grant) (24 000 SEK) \hfill 2018
 
@@ -333,7 +336,7 @@ and Fisheries Yields (WGGRAFY)
 \setlength{\parskip}{8pt}
 ```
 \noindent
-*ICES Journal of Marine Science (6)* \textperiodcentered Oikos (2) \textperiodcentered Nature Communications (1) \textperiodcentered Ecology (1) \textperiodcentered Scientific Reports (1) \textperiodcentered Functional Ecology (1) \textperiodcentered PLOS ONE (1) \textperiodcentered Proceedings of the Royal Society B (1)
+ICES Journal of Marine Science (6) \textperiodcentered Oikos (2) \textperiodcentered Nature Communications (2) \textperiodcentered Ecology (1) \textperiodcentered Scientific Reports (1) \textperiodcentered Functional Ecology (1) \textperiodcentered PLOS ONE (1) \textperiodcentered Proceedings of the Royal Society B (1)
 
 
 # Teaching
@@ -357,13 +360,10 @@ Teaching assistant. Wrote R lab Population dynamics and harvesting, lecture on f
 morphology, physiology, and energetics, supervising and grading student projects, \
 exam questions and marking.
 
-*Principles in Fisheries Science* \hfill 2018-2019\
-Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.
+*Principles in Fisheries Science* \hfill 2018-2022\
+Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.\
+Lecture on ecological interactions.
 
-*LunchR* \hfill 2018\
-A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated\
-and organized together with student colleague Philip Jacobson. Material:\
-<https://github.com/maxlindmark/LunchR>
 
 ```{=tex}
 \setlength{\parindent}{0in}
@@ -409,7 +409,16 @@ latitudinal gradient?*
 ```
 \noindent
 
+*Making academic websites using GitHub, Quarto and RStudio* \hfill 2022
+<https://github.com/maxlindmark/quarto_website>
+
 *Making graphics in R for popular report on status of fishes in Swedish* \hfill 2019
+<https://github.com/maxlindmark/ROM>
+
+*LunchR* \hfill 2018\
+A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated\
+and organized together with student colleague Philip Jacobson. Material:\
+<https://github.com/maxlindmark/LunchR>
 
 *Modelling population dynamics with MatCont* \hfill 2018\
 Organized a session on numerical continuation analysis of a predator-prey model
@@ -433,7 +442,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 PhD Representative Department of Aquatic Resources, SLU \hfill 2019
 
 Class representative Applied Marine and Fisheries Ecology \hfill 2014-2015\
-I represented studentsâ opinions and views on the program in regular meetings with\
+I represented students' opinions and views on the program in regular meetings with\
 course- and program coordinators at the University of Aberdeen
 
 Student Ambassador Applied Marine and Fisheries Ecology \hfill 2014-2015\
@@ -455,13 +464,13 @@ I communicated with prospective students, mostly through social media
 ```
 \noindent
 
-Co-managing research groupâs Instagram account @fishinfoodwebs \hfill 2016-2020
+Co-managing research group's Instagram account @fishinfoodwebs \hfill 2016-2020
 
 SLU 40th Anniversary, Uppsala (Poster) \hfill 2017\
 *Climate change and size-structured populations. Temperature dependent allometry and\
 ontogenetic asymmetry shape warming responses of size structured populations*
 
-Science evenings (high school), Ãsthammar municipality (Talk) \hfill 2017\
+Science evenings (high school), &ouml;sthammar municipality (Talk) \hfill 2017\
 *Effects of warming on fishes*
 
 Gothenburg Biological Society \hfill 2014\
@@ -470,7 +479,7 @@ fisheries on the west coast of Sweden
 
 Swedish Society for Nature Conservation \hfill 2011-2014\
 I have given public talks (presenting on the topic of toxins in the Baltic herring in\
-2014) at local festivals (go: TO SEA and VÃ¤sterhavsveckan)
+2014) at local festivals (go: TO SEA and V&auml;sterhavsveckan)
 
 Gothenburg Museum of Natural History \hfill 2011-2014\
 Arranged seminar (4\*2 per year) with invited speakers, covering all things marine
@@ -480,8 +489,3 @@ Arranged seminar (4\*2 per year) with invited speakers, covering all things mari
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{8pt}
 ```
-
-# Other
-\vspace{-10pt}
-
-Initiator and admin of department wide R-users mailing list. (w. P. Jacobson) \hfill 2018-present
