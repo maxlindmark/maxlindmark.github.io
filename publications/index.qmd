@@ -1,24 +1,40 @@
 [Google Scholar profile](https://scholar.google.se/citations?user=X-rwWCcAAAAJ&hl=en)
 
+# Publications
 ## Preprints
 
-**Lindmark, M.**, Anderson, S. C., Gogina, M., and Casini, M. 2022. Evaluating drivers of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.19.488709>
+**Lindmark, M.**, Anderson, S. C., Gogina, M., and Casini, M. 2022. Evaluating drivers\
+of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.*\
+https://doi.org/10.1101/2022.04.19.488709
 
-**Lindmark, M.**, Karlsson, M., and Gårdmark, A. 2022. Higher mortality rates leave heated ecosystem with similar size-structure despite larger, younger, and faster growing fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.13.488128>
-
+**Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2022. Higher mortality rates leave\
+heated ecosystem with similar size-structure despite larger, younger, and faster growing\
+fish. *BioRxiv.* https://doi.org/10.1101/2022.04.13.488128
 
 ## Publications
 
-**Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and Gårdmark, A. 2022. Temperature impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes and yields under warming. *Global Change Biology*, 28(21), 6239–6253, \ <https://doi.org/10.1111/gcb.16341>
-    
-**Lindmark, M.**, Ohlberger, J., and Gårdmark, A. 2022. Optimum growth temperature declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259–2271 <https://doi.org/10.1111/gcb.16067>
+7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, and Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *Biological Bulletin*, early view. <https://doi.org/10.1086/722027>
 
-Thunell, V., **Lindmark, M.**, Huss, M., and Gårdmark, A. 2021. Effects of warming on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*. 196(6). 706–718, <https://doi.org/10.1086/716927>
+6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and G&aring;rdmark, A. 2022. Temperature\
+impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
+and yields under warming. *Global Change Biology*, 28(21), 6239–6253, \ <https://doi.org/10.1111/gcb.16341>
 
-Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., Gårdmark, A. 2019. Experimental evidence of gradual size-dependent shifts in body size and growth of fish in response to warming. *Global Change Biology*, 25(7), pp. 2285–2295 <https://doi.org/10.1111/gcb.14637>
+5\. **Lindmark, M.**, Ohlberger, J., and G&aring;rdmark, A. 2022. Optimum growth temperature\
+declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259–2271,\
+<https://doi.org/10.1111/gcb.16067>
 
-**Lindmark, M.**, Ohlberger, J., Huss, M. and Gårdmark, A. 2019. Size-based ecological interactions determine effects of warming on food web stability. *Ecology Letters*, 22(5), pp. 778–786, <https://doi.org/10.1111/ele.13235>
+4\. Thunell, V., **Lindmark, M.**, Huss, M., and G&aring;rdmark, A. 2021. Effects of warming\
+on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*.\
+196(6). 706–718, <https://doi.org/10.1086/716927>
 
-**Lindmark, M.**, Huss, M., Ohlberger, J. and Gårdmark, A. 2018. Temperature‐dependent
-body size effects determine population responses to climate warming. *Ecology letters*,
+3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., G&aring;rdmark, A. 2019. Experimental\
+evidence of gradual size-dependent shifts in body size and growth of fish in response\
+to warming. *Global Change Biology*, 25(7), pp. 2285–2295, <https://doi.org/10.1111/gcb.14637>
+
+2\. **Lindmark, M.**, Ohlberger, J., Huss, M. and G&aring;rdmark, A. 2019. Size-based ecological\
+interactions determine effects of warming on food web stability. *Ecology Letters*,\
+22(5), pp. 778–786, <https://doi.org/10.1111/ele.13235>
+
+1\. **Lindmark, M.**, Huss, M., Ohlberger, J. and G&aring;rdmark, A. 2018. Temperature-dependent\
+body size effects determine population responses to climate warming. *Ecology letters*,\
 21(2), pp. 181–189, <https://doi.org/10.1111/ele.12880>
