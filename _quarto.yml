@@ -17,6 +17,8 @@ website:
         href: https://github.com/maxlindmark
       - text: "CV"
         href: cv
+      - text: "Mastodon"
+        href: https://mastodon.social/home
       - text: "Twitter"
         href: https://twitter.com/max_lindmark
       - text: "Contact"
