@@ -209,6 +209,11 @@ and organized together with student colleague Philip Jacobson. Material:\
 :   *Modelling population dynamics with MatCont*\
 Organized a session on numerical continuation analysis of a predator-prey model
 
+# Software
+2022
+:   *ggaqua*\
+An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU Aqua report style\
+<https://github.com/maxlindmark/ggaqua>
 
 # University Services
 2019

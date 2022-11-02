@@ -429,6 +429,26 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 
+# Software
+\vspace{-10pt}
+
+```{=tex}
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+```
+\noindent
+
+*ggaqua* \hfill 2022\
+<https://github.com/maxlindmark/ggaqua>
+An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU Aqua report style\
+
+```{=tex}
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{8pt}
+```
+
 # University Services
 \vspace{-10pt}
 
