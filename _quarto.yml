@@ -18,7 +18,7 @@ website:
       - text: "CV"
         href: cv
       - text: "Mastodon"
-        href: https://ecoevo.social/web/@mlindmark
+        href: https://ecoevo.social/@mlindmark
       - text: "Contact"
         href: contact
 format:
