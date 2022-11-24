@@ -19,8 +19,6 @@ website:
         href: cv
       - text: "Mastodon"
         href: https://ecoevo.social/web/@mlindmark
-      - text: "Twitter"
-        href: https://twitter.com/max_lindmark
       - text: "Contact"
         href: contact
 format:
