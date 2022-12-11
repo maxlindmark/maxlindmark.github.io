@@ -29,21 +29,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{=tex}
 \begin{center}
-  \begin{Large}
-  \textbf{Max Lindmark}
-  \end{Large}
+ \begin{Large}
+ \textbf{Max Lindmark}
+ \end{Large}
   
-  \textit{Curriculum vitae}
+ \textit{Curriculum vitae}
 \end{center}
 ```
 
 # Contact
 \vspace{-10pt}
 
-Swedish University of Agricultural Sciences \hfill +46104784173 (tel)\
-Department of Aquatic Resources \hfill max.lindmark@slu.se\
-Turistgatan 5 \hfill max.lindmark@tuta.io\
-453 30 Lysekil Sweden  \hfill https://maxlindmark.github.io
+Swedish University of Agricultural Sciences\hfill +46104784173 (tel)\
+Department of Aquatic Resources\hfill max.lindmark@slu.se\
+Turistgatan 5\hfill max.lindmark@tuta.io\
+453 30 Lysekil Sweden \hfill https://maxlindmark.github.io
 
 # Education
 \vspace{-10pt}
@@ -55,14 +55,14 @@ Turistgatan 5 \hfill max.lindmark@tuta.io\
 ```
 \noindent
 
-Ph.D. Ecology, Swedish University of Agricultural Sciences. \hfill 2016--2020\
+Ph.D. Ecology, Swedish University of Agricultural Sciences.\hfill 2016--2020\
 *Temperature- and body size scaling: effects on individuals, populations and food webs.*
 
-MRes. Applied Marine and Fisheries Ecology (Distinction), University of Aberdeen. \hfill 2014--2015\
+MRes. Applied Marine and Fisheries Ecology (Distinction), University of Aberdeen.\hfill 2014--2015\
 *Predicting spatial distribution of fish stocks by updating informative survey-based\
 priors with commercial data in a Bayesian framework*
 
-BSc. Biology, University of Gothenburg \hfill 2011--2014
+BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 ```{=tex}
 \setlength{\parindent}{0in}
@@ -80,7 +80,10 @@ BSc. Biology, University of Gothenburg \hfill 2011--2014
 ```
 \noindent
 
-Post-doctoral researcher \hfill 2020--2022\
+Researcher\hfill 2022--\
+Swedish University of Agricultural Sciences, Institute of Marine Research 
+
+Post-doctoral researcher\hfill 2020--2022\
 Swedish University of Agricultural Sciences, Institute of Marine Research 
 
 ```{=tex}
@@ -112,31 +115,33 @@ fish. *BioRxiv.* https://doi.org/10.1101/2022.04.13.488128
 
 [_Publications_]
 
+8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], and Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *Biological Bulletin*, early view. <https://doi.org/10.1086/722899> *16/26
+
 7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, and Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *Biological Bulletin*, early view. <https://doi.org/10.1086/722027>
 
 6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and G&aring;rdmark, A. 2022. Temperature\
 impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
-and yields under warming. *Global Change Biology*, 28(21), 6239–6253,\ <https://doi.org/10.1111/gcb.16341>
+and yields under warming. *Global Change Biology*, 28(21), 6239--6253,\ <https://doi.org/10.1111/gcb.16341>
 
 5\. **Lindmark, M.**, Ohlberger, J., and G&aring;rdmark, A. 2022. Optimum growth temperature\
-declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259–2271,\
+declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259--2271,\
 <https://doi.org/10.1111/gcb.16067>
 
 4\. Thunell, V., **Lindmark, M.**, Huss, M., and G&aring;rdmark, A. 2021. Effects of warming\
 on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*.\
-196(6). 706–718, <https://doi.org/10.1086/716927>
+196(6). 706--718, <https://doi.org/10.1086/716927>
 
 3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., G&aring;rdmark, A. 2019. Experimental\
 evidence of gradual size-dependent shifts in body size and growth of fish in response\
-to warming. *Global Change Biology*, 25(7), pp. 2285–2295, <https://doi.org/10.1111/gcb.14637>
+to warming. *Global Change Biology*, 25(7), pp. 2285--2295, <https://doi.org/10.1111/gcb.14637>
 
 2\. **Lindmark, M.**, Ohlberger, J., Huss, M. and G&aring;rdmark, A. 2019. Size-based ecological\
 interactions determine effects of warming on food web stability. *Ecology Letters*,\
-22(5), pp. 778–786, <https://doi.org/10.1111/ele.13235>
+22(5), pp. 778--786, <https://doi.org/10.1111/ele.13235>
 
 1\. **Lindmark, M.**, Huss, M., Ohlberger, J. and G&aring;rdmark, A. 2018. Temperature-dependent\
 body size effects determine population responses to climate warming. *Ecology letters*,\
-21(2), pp. 181–189, <https://doi.org/10.1111/ele.12880>
+21(2), pp. 181--189, <https://doi.org/10.1111/ele.12880>
 
 ```{=tex}
 \setlength{\parindent}{0in}
@@ -169,7 +174,7 @@ Resurs&ouml;versikt
 \setlength{\parskip}{8pt}
 ```
 
-# Awards
+# Grants & awards
 \vspace{-10pt}
 
 ```{=tex}
@@ -179,29 +184,41 @@ Resurs&ouml;versikt
 ```
 \noindent
 
-Lindsay Laird Prize \hfill 2015\
-In recognition of all-round performance in the Applied Marine and Fisheries Ecology \
+Formas research projects for early-career researchers\hfill 2023--2016\
+Principal Investigator of a four-year grant from the Swedish Research Council Formas\
+for Early Career Researchers. Project title: *Improving estimates of climate-driven\
+body size changes and range shifts in fishes by accounting for fine-scale spatial\
+heterogeneity*. (3 990 209 SEK)
+
+Sven och Dagmar Sal�ns stiftelse (Travel grant) (5 616 SEK)\hfill 2019
+
+Knut and Alice Wallenbergs foundation (Travel grant) (24 000 SEK)\hfill 2018
+
+SLU funds for internationalization of graduate education (Travel grant) (28 000 SEK)\hfill 2016
+
+Lindsay Laird Prize\hfill 2015\
+In recognition of all-round performance in the Applied Marine and Fisheries Ecology\
 program throughout the year. Awarded jointly with another student
 
-Fishmonger's Award, Scholarship recipient \hfill 2014\
-Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the \
+Fishmonger's Award, Scholarship recipient\hfill 2014\
+Full fees payment (�3400) awarded to 1 MRes/MSc student on academic merit by the\
 Fishmonger's Company
 
-Stipend from Gothenburg Biological Society \hfill 2014\
-For well accomplished bachelor's thesis: By-catch in pelagic fisheries: A study on \
+Gothenburg Biological Society\hfill 2014\
+Stipend for well accomplished bachelor's thesis: By-catch in pelagic fisheries: A study on\
 by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014
 
-Stiftelsen Hvitfeldtska gymnasiets samfond \hfill 2010\
+Stiftelsen Hvitfeldtska gymnasiets samfond\hfill 2010\
 Stipend awarded for academic achievement (top 10% of science students in class)
 
+
 ```{=tex}
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{8pt}
 ```
 
-
-# Grants
+# Invited talks
 \vspace{-10pt}
 
 ```{=tex}
@@ -211,29 +228,10 @@ Stipend awarded for academic achievement (top 10% of science students in class)
 ```
 \noindent
 
-Sven och Dagmar Saléns stiftelse (Travel grant) (5 616 SEK) \hfill 2019
+Svensk Fiskh�lsa (Uppsala)\hfill Dec 2022\
+*Fish and fisheries in a changing climate *
 
-Knut and Alice Wallenbergs foundation (Travel grant) (24 000 SEK) \hfill 2018
-
-SLU funds for internationalization of graduate education (Travel grant) (28 000 SEK) \hfill 2016
-
-```{=tex}
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{8pt}
-```
-
-# Invited presentations
-\vspace{-10pt}
-
-```{=tex}
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-```
-\noindent
-
-Gulf of Maine Research Institute May Seminar (GMRI) (video) \hfill May 2021\
+Gulf of Maine Research Institute May Seminar (GMRI) (video)\hfill May 2021\
 *Understanding the effects of climate warming on food webs via individual-level physiology*
 
 ```{=tex}
@@ -252,33 +250,34 @@ Gulf of Maine Research Institute May Seminar (GMRI) (video) \hfill May 2021\
 ```
 \noindent
 
-ICES ASC (Remote talk) \hfill 2022\
-*Higher mortality rates leave heated ecosystem with similar size structure despite larger, younger, and faster growing fish*
+ICES ASC (Remote talk)\hfill 2022\
+*Higher mortality rates leave heated ecosystem with similar size structure despite larger,\
+younger, and faster growing fish*
 
-ICES/PICES Early Career Scientist Conference (Talk) \hfill 2022\
+ICES/PICES Early Career Scientist Conference (Talk)\hfill 2022\
 *Evaluating drivers of spatiotemporal changes in the condition of Eastern Baltic cod*
 
-Swedish Oikos Meeting, Online (Talk) \hfill 2021\
+Swedish Oikos Meeting, Online (Talk)\hfill 2021\
 *Evaluating drivers of spatiotemporal changes in the condition of Eastern Baltic cod*
 
-Baltic Sea Science Congress, Stockholm (Talk) \hfill 2019\
+Baltic Sea Science Congress, Stockholm (Talk)\hfill 2019\
 *Warming alters the effect of fishing on the size spectra of an exploited temperate food web*
 
-Society for Experimental Biology, Seville (Talk) \hfill 2019\
+Society for Experimental Biology, Seville (Talk)\hfill 2019\
 In Satellite: Is global warming causing animals to shrink? evidence, mechanisms and models\
 *Physiological constraints to growing large in warm waters?*
 
-Swedish Oikos Meeting, Uppsala (Talk) \hfill 2019\
+Swedish Oikos Meeting, Uppsala (Talk)\hfill 2019\
 *Physiological constraints to growing large in warm waters?*
 
-Models in Population Dynamics, Ecology, and Evolution, Leicester (Talk) \hfill 2018\
+Models in Population Dynamics, Ecology, and Evolution, Leicester (Talk)\hfill 2018\
 *Species interactions determine effects of warming on stability in a stage-structured food chain*
 
-Nordic Oikos Meeting, Trondheim (Talk) \hfill 2018\
+Nordic Oikos Meeting, Trondheim (Talk)\hfill 2018\
 *Species interactions determine effects of warming on stability in a stage-structured food chain*
 
-Swedish Oikos Meeting, Lund (Talk) \hfill 2017\
-*Climate change and size-structured populations. Temperature dependent allometry and \
+Swedish Oikos Meeting, Lund (Talk)\hfill 2017\
+*Climate change and size-structured populations. Temperature dependent allometry and\
 ontogenetic asymmetry shape warming responses of size structured populations*
 
 ```{=tex}
@@ -297,10 +296,10 @@ ontogenetic asymmetry shape warming responses of size structured populations*
 ```
 \noindent
 
-University of Washington, School of Aquatic and Fishery Sciences \hfill Mar 2017-Jun 2017\
+University of Washington, School of Aquatic and Fishery Sciences\hfill Mar 2017-Jun 2017\
 Research visit and collaboration with Dr. Jan Ohlberger
 
-University of Tasmania, Institute for Marine and Antarctic Studies \hfill Nov 2018-Dec 2018\
+University of Tasmania, Institute for Marine and Antarctic Studies\hfill Nov 2018-Dec 2018\
 Research visit and multispecies food web modelling workshop with\
 Dr. Julia Blanchard
 
@@ -310,7 +309,7 @@ Dr. Julia Blanchard
 \setlength{\parskip}{8pt}
 ```
 
-# Working Groups
+# Working groups
 \vspace{-10pt}
 
 ```{=tex}
@@ -320,7 +319,7 @@ Dr. Julia Blanchard
 ```
 \noindent
 
-WGGRAFY \hfill Member 2020-present\
+WGGRAFY\hfill Member 2020-present\
 Joint ICES/PICES Working Group on Impacts of Warming on Growth Rates\
 and Fisheries Yields (WGGRAFY)
 
@@ -329,15 +328,6 @@ and Fisheries Yields (WGGRAFY)
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{8pt}
 ```
-
-# Reviewing
-
-```{=tex}
-\setlength{\parskip}{8pt}
-```
-\noindent
-ICES Journal of Marine Science (6) \textperiodcentered Oikos (2) \textperiodcentered Nature Communications (2) \textperiodcentered Ecology (1) \textperiodcentered Scientific Reports (1) \textperiodcentered Functional Ecology (1) \textperiodcentered PLOS ONE (1) \textperiodcentered Proceedings of the Royal Society B (1)
-
 
 # Teaching
 \vspace{-10pt}
@@ -352,17 +342,17 @@ ICES Journal of Marine Science (6) \textperiodcentered Oikos (2) \textperiodcent
 All lab material written by me is available on this github repository:\
 <https://github.com/maxlindmark/comp-labs-ecology>
 
-*Sustainability perspectives on contemporary fisheries. Where have all the fishes gone?* \hfill 2019\
+*Sustainability perspectives on contemporary fisheries. Where have all the fishes gone?*\hfill 2019\
 Teaching assistant. Lecture on climate impacts on global fisheries.
 
-*Ecology for fish management and conservation* \hfill 2016-2019\
+*Ecology for fish management and conservation*\hfill 2016--2019\
 Teaching assistant. Wrote R lab Population dynamics and harvesting, lecture on fish\
-morphology, physiology, and energetics, supervising and grading student projects, \
+morphology, physiology, and energetics, supervising and grading student projects,\
 exam questions and marking.
 
-*Principles in Fisheries Science* \hfill 2018-2022\
+*Principles in Fisheries Science*\hfill 2018--2022\
 Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.\
-Lecture on ecological interactions.
+Lecture on ecological interactions <https://github.com/maxlindmark/pfs>
 
 
 ```{=tex}
@@ -381,14 +371,26 @@ Lecture on ecological interactions.
 ```
 \noindent
 
+**PhD students**
+
+Henry Hansen, Karlstad University (co-supervisor)\hfill start: 2023\
+
+
 **MSc students**
 
-Malin Karlsson, Swedish University of Agricultural Sciences \hfill 2019-2020\
-Main supervisor for project: *The effect of temperature on life history traits of perch\
-(Perca fluviatilis) in a large scale natural climate change experiment and its implications\
-for population age- and size structure?*
+Julia Cao Sanchez, Uppsala University\hfill start: 2023\
+Main supervisor for project: *Joint species distribution modelling of benthic\
+invertebrate communities*
 
-Mattias Grunander, Swedish University of Agricultural Sciences \hfill 2016\
+Leo Sheils, Uppsala University\hfill start: 2023\
+Main supervisor for project: *Effects of warming on fish growth and body size*
+
+Malin Karlsson, Swedish University of Agricultural Sciences\hfill 2019--2020\
+Main supervisor for project: *The effect of temperature on life history traits of perch\
+(Perca fluviatilis) in a large scale natural climate change experiment and its\
+implications for population age- and size structure?*
+
+Mattias Grunander, Swedish University of Agricultural Sciences\hfill 2016\
 Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca fluviatilis)\
 in the Baltic Sea. - Does the growth response to increased temperatures differ along a\
 latitudinal gradient?*
@@ -409,18 +411,18 @@ latitudinal gradient?*
 ```
 \noindent
 
-*Making academic websites using GitHub, Quarto and RStudio* \hfill 2022
+*Making academic websites using GitHub, Quarto and RStudio*\hfill 2022
 <https://github.com/maxlindmark/quarto_website>
 
-*Making graphics in R for popular report on status of fishes in Swedish* \hfill 2019
+*Making graphics in R for popular report on status of fishes in Swedish*\hfill 2019
 <https://github.com/maxlindmark/ROM>
 
-*LunchR* \hfill 2018\
+*LunchR*\hfill 2018\
 A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated\
 and organized together with student colleague Philip Jacobson. Material:\
 <https://github.com/maxlindmark/LunchR>
 
-*Modelling population dynamics with MatCont* \hfill 2018\
+*Modelling population dynamics with MatCont*\hfill 2018\
 Organized a session on numerical continuation analysis of a predator-prey model
 
 ```{=tex}
@@ -439,7 +441,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 ```
 \noindent
 
-*ggaqua* \hfill 2022\
+*ggaqua*\hfill 2022\
 <https://github.com/maxlindmark/ggaqua>
 An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU Aqua report style\
 
@@ -449,7 +451,18 @@ An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU
 \setlength{\parskip}{8pt}
 ```
 
-# University Services
+# Reviewing
+
+```{=tex}
+\setlength{\parskip}{8pt}
+```
+\noindent
+Ifremer: External evaluation of PhD proposal\hfill 2022
+
+**Journals**: ICES Journal of Marine Science (6)\textperiodcentered Oikos (2)\textperiodcentered Nature Communications (2)\textperiodcentered Ecology (1)\textperiodcentered\
+Scientific Reports (1)\textperiodcentered Functional Ecology (1)\textperiodcentered PLOS ONE (1)\textperiodcentered Proceedings of the Royal Society B (1) Fisheries (1) Canadian Journal of Fishery and Aquatic Sciences (1)
+
+# University services
 \vspace{-10pt}
 
 ```{=tex}
@@ -459,13 +472,13 @@ An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU
 ```
 \noindent
 
-PhD Representative Department of Aquatic Resources, SLU \hfill 2019
+PhD Representative Department of Aquatic Resources, SLU\hfill 2019
 
-Class representative Applied Marine and Fisheries Ecology \hfill 2014-2015\
+Class representative Applied Marine and Fisheries Ecology\hfill 2014--2015\
 I represented students' opinions and views on the program in regular meetings with\
 course- and program coordinators at the University of Aberdeen
 
-Student Ambassador Applied Marine and Fisheries Ecology \hfill 2014-2015\
+Student Ambassador Applied Marine and Fisheries Ecology\hfill 2014--2015\
 I communicated with prospective students, mostly through social media
 
 ```{=tex}
@@ -484,24 +497,24 @@ I communicated with prospective students, mostly through social media
 ```
 \noindent
 
-Co-managing research group's Instagram account @fishinfoodwebs \hfill 2016-2020
+Co-managing research group's Instagram account @fishinfoodwebs\hfill 2016--2020
 
-SLU 40th Anniversary, Uppsala (Poster) \hfill 2017\
+SLU 40th Anniversary, Uppsala (Poster)\hfill 2017\
 *Climate change and size-structured populations. Temperature dependent allometry and\
 ontogenetic asymmetry shape warming responses of size structured populations*
 
-Science evenings (high school), &ouml;sthammar municipality (Talk) \hfill 2017\
+Science evenings (high school), &ouml;sthammar municipality (Talk)\hfill 2017\
 *Effects of warming on fishes*
 
-Gothenburg Biological Society \hfill 2014\
+Gothenburg Biological Society\hfill 2014\
 Popular talk at the Gothenburg Museum of Natural History on bycatch in small scale pelagic\
 fisheries on the west coast of Sweden
 
-Swedish Society for Nature Conservation \hfill 2011-2014\
+Swedish Society for Nature Conservation\hfill 2011--2014\
 I have given public talks (presenting on the topic of toxins in the Baltic herring in\
 2014) at local festivals (go: TO SEA and V&auml;sterhavsveckan)
 
-Gothenburg Museum of Natural History \hfill 2011-2014\
+Gothenburg Museum of Natural History\hfill 2011--2014\
 Arranged seminar (4\*2 per year) with invited speakers, covering all things marine
 
 ```{=tex}

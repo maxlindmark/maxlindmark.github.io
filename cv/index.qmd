@@ -7,14 +7,17 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 2014--2015
 :   MRes. Applied Marine and Fisheries Ecology (Distinction), University of Aberdeen.\
-*Predicting spatial distribution of fish stocks by updating informative survey-based\
-priors with commercial data in a Bayesian framework*
+*Predicting spatial distribution of fish stocks by updating informative survey-based priors with commercial data in a Bayesian framework*
 
 2011--2014
 :   BSc. Biology, University of Gothenburg
 
 
 # Professional experience
+
+2022--
+:   Researcher\
+Swedish University of Agricultural Sciences, Institute of Marine Research 
 
 2020--2022
 :   Post-doctoral researcher\
@@ -24,82 +27,85 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 # Publications
 [_Preprints_]
 
-**Lindmark, M.**, Anderson, S. C., Gogina, M., and Casini, M. 2022. Evaluating drivers\
-of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.*\
-https://doi.org/10.1101/2022.04.19.488709
+**Lindmark, M.**, Anderson, S. C., Gogina, M., and Casini, M. 2022. Evaluating drivers of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.19.488709>
 
-**Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2022. Higher mortality rates leave\
-heated ecosystem with similar size-structure despite larger, younger, and faster growing\
-fish. *BioRxiv.* https://doi.org/10.1101/2022.04.13.488128
+**Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2022. Higher mortality rates leave heated ecosystem with similar size-structure despite larger, younger, and faster growing fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.13.488128>
 
 [_Publications_]
+
+8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], and Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *Biological Bulletin*, early view. <https://doi.org/10.1086/722899> *16/26
 
 7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, and Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *Biological Bulletin*, early view. <https://doi.org/10.1086/722027>
 
 6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. and G&aring;rdmark, A. 2022. Temperature\
 impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
-and yields under warming. *Global Change Biology*, 28(21), 6239–6253, \ <https://doi.org/10.1111/gcb.16341>
+and yields under warming. *Global Change Biology*, 28(21), 6239--6253,\ <https://doi.org/10.1111/gcb.16341>
 
 5\. **Lindmark, M.**, Ohlberger, J., and G&aring;rdmark, A. 2022. Optimum growth temperature\
-declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259–2271,\
+declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259--2271,\
 <https://doi.org/10.1111/gcb.16067>
 
 4\. Thunell, V., **Lindmark, M.**, Huss, M., and G&aring;rdmark, A. 2021. Effects of warming\
 on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*.\
-196(6). 706–718, <https://doi.org/10.1086/716927>
+196(6). 706--718, <https://doi.org/10.1086/716927>
 
 3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., G&aring;rdmark, A. 2019. Experimental\
 evidence of gradual size-dependent shifts in body size and growth of fish in response\
-to warming. *Global Change Biology*, 25(7), pp. 2285–2295, <https://doi.org/10.1111/gcb.14637>
+to warming. *Global Change Biology*, 25(7), pp. 2285--2295, <https://doi.org/10.1111/gcb.14637>
 
 2\. **Lindmark, M.**, Ohlberger, J., Huss, M. and G&aring;rdmark, A. 2019. Size-based ecological\
 interactions determine effects of warming on food web stability. *Ecology Letters*,\
-22(5), pp. 778–786, <https://doi.org/10.1111/ele.13235>
+22(5), pp. 778--786, <https://doi.org/10.1111/ele.13235>
 
 1\. **Lindmark, M.**, Huss, M., Ohlberger, J. and G&aring;rdmark, A. 2018. Temperature-dependent\
 body size effects determine population responses to climate warming. *Ecology letters*,\
-21(2), pp. 181–189, <https://doi.org/10.1111/ele.12880>
+21(2), pp. 181--189, <https://doi.org/10.1111/ele.12880>
 
 # Reports
-Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018.\
-Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
+Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018. Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
 
-Havs- och vattenmyndigheten 2018. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2017.\
-Resurs&ouml;versikt. G&ouml;teborg, 273 s.
+Havs- och vattenmyndigheten 2018. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2017. Resurs&ouml;versikt. G&ouml;teborg, 273 s.
 
-Havs- och vattenmyndigheten 2016. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2016.\
-Resurs&ouml;versikt
+Havs- och vattenmyndigheten 2016. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2016. Resurs&ouml;versikt
 
 
-# Awards
+# Grants & awards
+2022
+:   *Formas research projects for early-career researchers*\
+Principal Investigator of a four-year grant (2023-2026) from the Swedish Research Council Formas for Early Career Researchers.\
+Project title: *Improving estimates of climate-driven body size changes and range shifts in fishes by accounting for fine-scale spatial heterogeneity*. (3 990 209 SEK)
+
+2019
+:   *Sven och Dagmar Saléns stiftelse* (Travel grant) (5 616 SEK)
+
+2018
+:   *Knut and Alice Wallenbergs foundation* (Travel grant) (24 000 SEK)
+
+2016
+:   *SLU funds for internationalization of graduate education* (Travel grant) (28 000 SEK)
+
 2015
-:   Lindsay Laird Prize\
+:   *Lindsay Laird Prize*\
 In recognition of all-round performance in the Applied Marine and Fisheries Ecology program throughout the year. Awarded jointly with another student
 
 2014
-:   Fishmonger's Award, Scholarship recipient
-Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the Fishmonger's Company
+:   *Fishmonger's Award*
+Scholarship recipient: Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the Fishmonger's Company
 
 2014
-:   Stipend from Gothenburg Biological Society
-For well accomplished bachelor's thesis: *By-catch in pelagic fisheries: A study on by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014*
+:   *Gothenburg Biological Society*
+Stipend for well accomplished bachelor's thesis: *By-catch in pelagic fisheries: A study on by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014*
 
 2010
 :   Stiftelsen Hvitfeldtska gymnasiets samfond\
 Stipend awarded for academic achievement (top 10% of science students in class)
 
 
-# Grants
-2019
-:   Sven och Dagmar Saléns stiftelse (Travel grant) (5 616 SEK)
+# Invited talks
+2022
+:   Svensk Fiskh&auml;lsa (Uppsala)
+*Fish and fisheries in a changing climate *
 
-2018
-:   Knut and Alice Wallenbergs foundation (Travel grant) (24 000 SEK)
-
-2016
-:   SLU funds for internationalization of graduate education (Travel grant) (28 000 SEK)
-
-# Invited presentations
 2021
 :   Gulf of Maine Research Institute May Seminar (GMRI) (video)
 *Understanding the effects of climate warming on food webs via individual-level physiology*
@@ -155,9 +161,6 @@ Research visit and multispecies food web modelling workshop with Dr. Julia Blanc
 :   WGGRAFY (Member) 
 Joint ICES/PICES Working Group on Impacts of Warming on Growth Rates and Fisheries Yields (WGGRAFY)
 
-# Reviewing
-ICES Journal of Marine Science (6) \textperiodcentered Oikos (2) \textperiodcentered Nature Communications (1) \textperiodcentered Ecology (1) \textperiodcentered Scientific Reports (1) \textperiodcentered Functional Ecology (1) \textperiodcentered PLOS ONE (1) \textperiodcentered Proceedings of the Royal Society B (1)
-
 # Teaching
 
 All lab material written by me is available on this github repository:\
@@ -172,24 +175,31 @@ Teaching assistant. Lecture on climate impacts on global fisheries.
 Teaching assistant. Wrote R lab Population dynamics and harvesting, lecture on fish morphology, physiology, and energetics, supervising and grading student projects, exam questions and marking.
 
 2018-2022
-:   *Principles in Fisheries Science* \
-Teaching assistant. Wrote R lab Impacts of fishing in an ecological context. Lecture on ecological interactions.
+:   *Principles in Fisheries Science*\
+Teaching assistant. Wrote R lab Impacts of fishing in an ecological context. Lecture on ecological interactions. <https://github.com/maxlindmark/pfs>
 
 # Supervision
 
+**PhD students**
+2023--2024
+Henry Hansen, Karlstad University (co-supervisor)
+
+
 **MSc students**
+Start 2023
+Julia Cao Sanchez, Uppsala University\
+Main supervisor for project: *Joint species distribution modelling of benthic invertebrate communities*
+
+Leo Sheils, Uppsala University\
+Main supervisor for project: *Effects of warming on fish growth and body size*
 
 2019--2020
 :   Malin Karlsson, Swedish University of Agricultural Sciences\
-Main supervisor for project: *The effect of temperature on life history traits of perch\
-(Perca fluviatilis) in a large scale natural climate change experiment and its implications\
-for population age- and size structure?*
+Main supervisor for project: *The effect of temperature on life history traits of perch (Perca fluviatilis) in a large scale natural climate change experiment and its implications for population age- and size structure?*
 
 2016
 :   Mattias Grunander, Swedish University of Agricultural Sciences\
-Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca fluviatilis)\
-in the Baltic Sea. - Does the growth response to increased temperatures differ along a\
-latitudinal gradient?*
+Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca fluviatilis) in the Baltic Sea. - Does the growth response to increased temperatures differ along a latitudinal gradient?*
 
 # Workshops
 2022
@@ -202,8 +212,7 @@ latitudinal gradient?*
 
 2018
 :   *LunchR*\
-A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated\
-and organized together with student colleague Philip Jacobson. Material:\
+A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated and organized together with student colleague Philip Jacobson. Material:\
 <https://github.com/maxlindmark/LunchR>
 
 :   *Modelling population dynamics with MatCont*\
@@ -215,14 +224,19 @@ Organized a session on numerical continuation analysis of a predator-prey model
 An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU Aqua report style\
 <https://github.com/maxlindmark/ggaqua>
 
+# Reviewing
+2019
+:   Ifremer: External evaluation of PhD proposal
+
+**Journals**: ICES Journal of Marine Science (6)\textperiodcentered Oikos (2)\textperiodcentered Nature Communications (1)\textperiodcentered Ecology (1)\textperiodcentered Scientific Reports (1)\textperiodcentered Functional Ecology (1)\textperiodcentered PLOS ONE (1)\textperiodcentered Proceedings of the Royal Society B (1) Fisheries (1) Canadian Journal of Fishery and Aquatic Sciences (1)
+
 # University Services
 2019
 :   PhD Representative Department of Aquatic Resources, SLU
 
 2014--2015
 :   Class representative Applied Marine and Fisheries Ecology\
-I represented students' opinions and views on the program in regular meetings with\
-course- and program coordinators at the University of Aberdeen
+I represented students' opinions and views on the program in regular meetings with course- and program coordinators at the University of Aberdeen
 
 :   Student Ambassador Applied Marine and Fisheries Ecology\
 I communicated with prospective students, mostly through social media
