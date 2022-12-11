@@ -1,13 +1,13 @@
 [Google Scholar profile](https://scholar.google.se/citations?user=X-rwWCcAAAAJ&hl=en)
 
 # Publications
-[_Preprints_]
+## Preprints
 
 **Lindmark, M.**, Anderson, S. C., Gogina, M., and Casini, M. 2022. Evaluating drivers of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.19.488709>
 
 **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2022. Higher mortality rates leave heated ecosystem with similar size-structure despite larger, younger, and faster growing fish. *BioRxiv.* <https://doi.org/10.1101/2022.04.13.488128>
 
-[_Publications_]
+## Publications
 
 8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], and Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *Biological Bulletin*, early view. <https://doi.org/10.1086/722899> *16/26
 
@@ -37,7 +37,7 @@ interactions determine effects of warming on food web stability. *Ecology Letter
 body size effects determine population responses to climate warming. *Ecology letters*,\
 21(2), pp. 181--189, <https://doi.org/10.1111/ele.12880>
 
-# Reports
+## Reports
 Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018. Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
 
 Havs- och vattenmyndigheten 2018. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2017. Resurs&ouml;versikt. G&ouml;teborg, 273 s.
