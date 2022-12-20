@@ -11,7 +11,7 @@ comments: false
 
 ::: {.g-col-8}
 
-I'm a researcher working to improve our understanding of how ecosystems respond to climate change. Specifically, I study how climate change affects the abundance and distribution of species, life history traits and body size distributions, and interactions among species in ecological communities. I'm an enthusiastic R user and enjoy working with packages such as [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and [brms](https://paul-buerkner.github.io/brms/) in my research.
+I'm a researcher working to improve our understanding of how ecosystems respond to climate change. Specifically, I study how climate change affects the abundance and distribution of species, life history traits and body size, and interactions among species in ecological communities. I'm an enthusiastic R user and enjoy working with packages such as [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and [brms](https://paul-buerkner.github.io/brms/) in my research.
 
 In my free time I like to ride my bicycle with my family and cook food, ideally something fermented.
 
