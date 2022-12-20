@@ -204,7 +204,7 @@ Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca f
 # Workshops
 2022
 :   *Making academic websites using GitHub, Quarto and RStudio*\
-<https://github.com/maxlindmark/quarto_website>
+<https://github.com/maxlindmark/quarto-website>
 
 2019
 :   *Making graphics in R for popular report on status of fishes in Swedish*\
