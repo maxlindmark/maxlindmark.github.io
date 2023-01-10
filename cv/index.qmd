@@ -181,13 +181,15 @@ Teaching assistant. Wrote R lab Impacts of fishing in an ecological context. Lec
 # Supervision
 
 **PhD students**
-2023--2024
-Henry Hansen, Karlstad University (co-supervisor)
+
+2023--
+:   Henry Hansen, Karlstad University (co-supervisor)
 
 
 **MSc students**
-Start 2023
-Julia Cao Sanchez, Uppsala University\
+
+2023
+:   Julia Cao Sanchez, Uppsala University\
 Main supervisor for project: *Joint species distribution modelling of benthic invertebrate communities*
 
 Leo Sheils, Uppsala University\
