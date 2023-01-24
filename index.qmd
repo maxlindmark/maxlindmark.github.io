@@ -1,7 +1,7 @@
 ---
 title: "Max Lindmark"
 subtitle: "Researcher at the Institute of Marine Research | SLU"
-image: avatar.jpg
+image: avatar_old.jpg
 about:
   template: trestles
   image-width: 20em
