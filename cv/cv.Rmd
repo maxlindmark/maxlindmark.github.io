@@ -459,8 +459,8 @@ An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU
 \noindent
 Ifremer: External evaluation of PhD proposal\hfill 2022
 
-**Journals**: ICES Journal of Marine Science (6)\textperiodcentered Oikos (2)\textperiodcentered Nature Communications (2)\textperiodcentered Ecology (1)\textperiodcentered\
-Scientific Reports (1)\textperiodcentered Functional Ecology (1)\textperiodcentered PLOS ONE (1)\textperiodcentered Proceedings of the Royal Society B (1) Fisheries (1) Canadian Journal of Fishery and Aquatic Sciences (1)
+**Journals**: ICES Journal of Marine Science \textperiodcentered Oikos \textperiodcentered Nature Communications \textperiodcentered Ecology \textperiodcentered\
+Scientific Reports \textperiodcentered Functional Ecology \textperiodcentered PLOS ONE \textperiodcentered Proceedings of the Royal Society B Fisheries Canadian Journal of Fishery and Aquatic Sciences
 
 # University services
 \vspace{-10pt}
