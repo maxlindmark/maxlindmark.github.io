@@ -159,6 +159,8 @@ body size effects determine population responses to climate warming. *Ecology le
 ```
 \noindent
 
+ICES. 2023. Workshop 2 on Fish Distribution (WKFISHDISH2; outputs from 2022 meeting). ICES Scientific Reports. 5:7. 127 pp. https://doi.org/10.17895/ices.pub.21692246
+
 Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018.\
 Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
 
