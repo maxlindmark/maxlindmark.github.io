@@ -35,9 +35,9 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 
 9\. Belgrano, A, __Lindmark, M.__ 2022. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, early view. <https://doi.org/10.1111/gcb.16665>
 
-8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *Biological Bulletin*, 243(2), pp. 85--103, <https://doi.org/10.1086/722899> *16/26
+8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103, <https://doi.org/10.1086/722899> *16/26
 
-7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *Biological Bulletin*, 243(2), pp. 220--238. <https://doi.org/10.1086/722027>
+7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *The Biological Bulletin*, 243(2), pp. 220--238. <https://doi.org/10.1086/722027>
 
 6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. G&aring;rdmark, A. 2022. Temperature\
 impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
