@@ -399,6 +399,12 @@ Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca f
 in the Baltic Sea. - Does the growth response to increased temperatures differ along a\
 latitudinal gradient?*
 
+
+**BSc students**
+
+Lisa Sch&uuml;ttler, University of Gothenburg\hfill 2023\
+Main supervisor for project: *Effects of heatwaves on fish size-at-age*
+
 ```{=tex}
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}

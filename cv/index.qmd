@@ -207,6 +207,13 @@ Main supervisor for project: *The effect of temperature on life history traits o
 :   Mattias Grunander, Swedish University of Agricultural Sciences\
 Co-supervisor for project: *Effects of global warming on Eurasian perch (Perca fluviatilis) in the Baltic Sea. - Does the growth response to increased temperatures differ along a latitudinal gradient?*
 
+**BSc students**
+
+2023
+:   Lisa Sch&uuml;ttler, University of Gothenburg\
+Main supervisor for project: *Effects of heatwaves on fish size-at-age*
+
+
 # Workshops
 2022
 :   *Making academic websites using GitHub, Quarto and RStudio*\

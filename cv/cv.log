@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  13 MAR 2023 13:08
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  23 MAR 2023 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,12 +820,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 499--500
  []
 
 [4]
-Underfull \hbox (badness 5316) in paragraph at lines 575--579
+Underfull \hbox (badness 5316) in paragraph at lines 581--585
  [][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][]$[][] \TU/lmr/m/n/10 An R-package with a simple theme for ggplot2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--579
+Underfull \hbox (badness 10000) in paragraph at lines 581--585
  
  []
 
