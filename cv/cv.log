@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  23 MAR 2023 19:51
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  11 APR 2023 08:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -815,26 +815,21 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
  
  []
 
 [4]
-Underfull \hbox (badness 5316) in paragraph at lines 581--585
- [][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][]$[][] \TU/lmr/m/n/10 An R-package with a simple theme for ggplot2,
- []
+Underfull \hbox (badness 10000) in paragraph at lines 576--582
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 581--585
- 
  []
 
 [5] [6] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 20055 strings out of 478777
- 369128 string characters out of 5849638
- 1861979 words of memory out of 5000000
- 39809 multiletter control sequences out of 15000+600000
+ 20053 strings out of 478777
+ 369112 string characters out of 5849638
+ 1860979 words of memory out of 5000000
+ 39807 multiletter control sequences out of 15000+600000
  515784 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,12n,121p,999b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s

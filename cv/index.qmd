@@ -27,11 +27,11 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 # Publications
 [_Preprints_]
 
-**Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *BioRxiv.* <https://www.biorxiv.org/content/10.1101/2022.04.13.488128v3>
-
 **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2022. Evaluating drivers of spatiotemporal individual condition of a bottom-associated marine fish. *BioRxiv.* <https://www.biorxiv.org/content/10.1101/2022.04.19.488709v3>
 
 [_Publications_]
+
+10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, Accepted
 
 9\. Belgrano, A, __Lindmark, M.__ 2022. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, early view. <https://doi.org/10.1111/gcb.16665>
 
@@ -231,17 +231,13 @@ A department wide R course in data wrangling and plotting (4x1 hour). Solely ini
 :   *Modelling population dynamics with MatCont*\
 Organized a session on numerical continuation analysis of a predator-prey model
 
-# Software
-2022
-:   *ggaqua*\
-An R-package with a simple theme for ggplot2, theme_aqua(), that is based on SLU Aqua report style\
-<https://github.com/maxlindmark/ggaqua>
-
 # Reviewing
 2019
 :   Ifremer: External evaluation of PhD proposal
 
-**Journals**: ICES Journal of Marine Science \textperiodcentered Oikos \textperiodcentered Nature Communications \textperiodcentered Ecology \textperiodcentered Scientific Reports \textperiodcentered Functional Ecology \textperiodcentered PLOS ONE \textperiodcentered Proceedings of the Royal Society B Fisheries Canadian Journal of Fishery and Aquatic Sciences
+**Journals**: ICES Journal of Marine Science | Oikos | Nature Communications | Ecology |\
+Scientific Reports | Functional Ecology | PLOS ONE | Proceedings of the Royal Society B | \
+Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography \
 
 # University Services
 2019
