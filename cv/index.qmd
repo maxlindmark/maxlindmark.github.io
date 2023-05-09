@@ -31,37 +31,37 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 
 [_Publications_]
 
-10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996
+10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>
 
 9\. Belgrano, A, __Lindmark, M.__ 2022. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, early view. <https://doi.org/10.1111/gcb.16665>
 
-8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103, <https://doi.org/10.1086/722899> *16/26
+8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103. <https://doi.org/10.1086/722899> *16/26
 
 7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *The Biological Bulletin*, 243(2), pp. 220--238. <https://doi.org/10.1086/722027>
 
 6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. G&aring;rdmark, A. 2022. Temperature\
 impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes\
-and yields under warming. *Global Change Biology*, 28(21), 6239--6253,\ <https://doi.org/10.1111/gcb.16341>
+and yields under warming. *Global Change Biology*, 28(21), 6239--6253.\ <https://doi.org/10.1111/gcb.16341>
 
 5\. **Lindmark, M.**, Ohlberger, J., G&aring;rdmark, A. 2022. Optimum growth temperature\
-declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259--2271,\
+declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259--2271. \
 <https://doi.org/10.1111/gcb.16067>
 
 4\. Thunell, V., **Lindmark, M.**, Huss, M., G&aring;rdmark, A. 2021. Effects of warming\
 on intraguild predator communities with ontogenetic diet-shifts. *The American Naturalist*.\
-196(6). 706--718, <https://doi.org/10.1086/716927>
+196(6). 706--718. <https://doi.org/10.1086/716927>
 
 3\. Huss, M., **Lindmark, M.**, Jacobson, P., van Dorst, R., G&aring;rdmark, A. 2019. Experimental\
 evidence of gradual size-dependent shifts in body size and growth of fish in response\
-to warming. *Global Change Biology*, 25(7), pp. 2285--2295, <https://doi.org/10.1111/gcb.14637>
+to warming. *Global Change Biology*, 25(7), pp. 2285--2295. <https://doi.org/10.1111/gcb.14637>
 
 2\. **Lindmark, M.**, Ohlberger, J., Huss, M. G&aring;rdmark, A. 2019. Size-based ecological\
 interactions determine effects of warming on food web stability. *Ecology Letters*,\
-22(5), pp. 778--786, <https://doi.org/10.1111/ele.13235>
+22(5), pp. 778--786. <https://doi.org/10.1111/ele.13235>
 
 1\. **Lindmark, M.**, Huss, M., Ohlberger, J. G&aring;rdmark, A. 2018. Temperature-dependent\
 body size effects determine population responses to climate warming. *Ecology letters*,\
-21(2), pp. 181--189, <https://doi.org/10.1111/ele.12880>
+21(2), pp. 181--189. <https://doi.org/10.1111/ele.12880>
 
 # Reports
 ICES. 2023. Workshop 2 on Fish Distribution (WKFISHDISH2; outputs from 2022 meeting). ICES Scientific Reports. 5:7. 127 pp. https://doi.org/10.17895/ices.pub.21692246
