@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  22 MAY 2023 11:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  22 MAY 2023 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -815,12 +815,12 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
  
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 585--591
+Underfull \hbox (badness 10000) in paragraph at lines 587--593
 
  []
 
