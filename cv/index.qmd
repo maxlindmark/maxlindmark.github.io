@@ -122,6 +122,13 @@ Stipend awarded for academic achievement (top 10% of science students in class)
 
 # Conferences
 
+2023
+:   PICES 5th International Symposium on the Effects of Climate Change on the World???s Ocean (ECCWO-5), Bergen
+*Local changes in demersal fish biomass in relation to oxygen, temperature, and the metabolic index in a warming and deoxygenating ecosystem*
+
+:   Swedish Oikos Meeting, Gothenburg
+*Quantifying competition between two demersal fish species*
+
 2022
 :   ICES ASC (Remote talk)
 *Higher mortality rates leave heated ecosystem with similar size structure despite larger, younger, and faster growing fish*
