@@ -444,8 +444,9 @@ Organized a session on numerical continuation analysis of a predator-prey model
 ```
 \noindent
 **Journals**: ICES Journal of Marine Science | Oikos | Nature Communications | Ecology |\
-Scientific Reports | Functional Ecology | PLOS ONE | Proceedings of the Royal Society B | \
-Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography \
+Scientific Reports | Functional Ecology | PLOS ONE | Proceedings of the Royal Society B |\
+Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography |\
+Ecology and Evolution
 
 Ifremer: External evaluation of PhD proposal\hfill 2022
 
