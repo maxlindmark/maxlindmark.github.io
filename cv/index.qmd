@@ -219,7 +219,7 @@ A department wide R course in data wrangling and plotting (4x1 hour). Solely ini
 Organized a session on numerical continuation analysis of a predator-prey model
 
 # Reviewing
-**Journals**: ICES Journal of Marine Science | Fish and Fisheries | Nature Communications | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
+**Journals**: ICES Journal of Marine Science | Fish and Fisheries | Nature Communications | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
 
 2019
 :   Ifremer: External evaluation of PhD proposal
