@@ -108,7 +108,7 @@ Swedish University of Agricultural Sciences, Institute of Marine Research
 
 [_Publications_]
 
-11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*. Early view. <https://doi.org/10.1093/icesjms/fsad084>
+11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
 10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>
 
@@ -443,10 +443,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 \noindent
-**Journals**: ICES Journal of Marine Science | Oikos | Nature Communications | Ecology |\
-Scientific Reports | Functional Ecology | PLOS ONE | Proceedings of the Royal Society B |\
-Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography |\
-Ecology and Evolution
+**Journals**: ICES Journal of Marine Science | Fish and Fisheries | Nature Communications | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
 
 Ifremer: External evaluation of PhD proposal\hfill 2022
 

@@ -7,16 +7,18 @@ website:
     left:
       - text: "About"
         href: index.html
+      # - text: "Publications" Link to cv section instead...
+      #   href: publications
       - text: "Publications"
-        href: publications
+        href: cv/#publications
+      - text: "CV"
+        href: cv
       - text: "Presentations"
         href: presentations
       - text: "Blog"
         href: blog
       - text: "GitHub"
         href: https://github.com/maxlindmark
-      - text: "CV"
-        href: cv
       - text: "Mastodon"
         href: https://ecoevo.social/@mlindmark
       - text: "Contact"
