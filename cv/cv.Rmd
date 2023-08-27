@@ -45,6 +45,30 @@ Department of Aquatic Resources\hfill max.lindmark@slu.se\
 Turistgatan 5\hfill max.lindmark@tuta.io\
 453 30 Lysekil Sweden \hfill https://maxlindmark.github.io
 
+
+# Professional experience
+\vspace{-10pt}
+
+```{=tex}
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+```
+\noindent
+
+Researcher\hfill 2022--\
+Swedish University of Agricultural Sciences, Institute of Marine Research 
+
+Post-doctoral researcher\hfill 2020--2022\
+Swedish University of Agricultural Sciences, Institute of Marine Research 
+
+```{=tex}
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{8pt}
+```
+
+
 # Education
 \vspace{-10pt}
 
@@ -67,29 +91,6 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 ```{=tex}
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
-```
-
-
-# Professional experience
-\vspace{-10pt}
-
-```{=tex}
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-```
-\noindent
-
-Researcher\hfill 2022--\
-Swedish University of Agricultural Sciences, Institute of Marine Research 
-
-Post-doctoral researcher\hfill 2020--2022\
-Swedish University of Agricultural Sciences, Institute of Marine Research 
-
-```{=tex}
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{8pt}
 ```
 
 
@@ -187,7 +188,7 @@ SLU funds for internationalization of graduate education (Travel grant) (28 000 
 
 Lindsay Laird Prize\hfill 2015\
 In recognition of all-round performance in the Applied Marine and Fisheries Ecology\
-program throughout the year. Awarded jointly with another student
+program throughout the year.
 
 Fishmonger's Award, Scholarship recipient\hfill 2014\
 Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the\
@@ -196,9 +197,6 @@ Fishmonger's Company
 Gothenburg Biological Society\hfill 2014\
 Stipend for well accomplished bachelor's thesis: By-catch in pelagic fisheries: A study on\
 by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014
-
-Stiftelsen Hvitfeldtska gymnasiets samfond\hfill 2010\
-Stipend awarded for academic achievement (top 10% of science students in class)
 
 
 ```{=tex}
@@ -220,7 +218,7 @@ Stipend awarded for academic achievement (top 10% of science students in class)
 3rd Internal Water Seminar at SLU (Uppsala)\hfill March 2023\
 *Embracing local scale processes in climate-driven range shifts*
 
-Svensk Fiskhälsa (Uppsala)\hfill Dec 2022\
+Svensk Fiskh&auml;lsa (Uppsala)\hfill Dec 2022\
 *Fish and fisheries in a changing climate *
 
 Gulf of Maine Research Institute May Seminar (GMRI) (video)\hfill May 2021\
@@ -286,29 +284,6 @@ ontogenetic asymmetry shape warming responses of size structured populations*
 \setlength{\parskip}{8pt}
 ```
 
-# Research visits
-\vspace{-10pt}
-
-```{=tex}
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-```
-\noindent
-
-University of Washington, School of Aquatic and Fishery Sciences\hfill Mar 2017-Jun 2017\
-Research visit and collaboration with Dr. Jan Ohlberger
-
-University of Tasmania, Institute for Marine and Antarctic Studies\hfill Nov 2018-Dec 2018\
-Research visit and multispecies food web modelling workshop with\
-Dr. Julia Blanchard
-
-```{=tex}
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{8pt}
-```
-
 # Working groups
 \vspace{-10pt}
 
@@ -319,7 +294,7 @@ Dr. Julia Blanchard
 ```
 \noindent
 
-WGGRAFY\hfill Member 2020-present\
+WGGRAFY\hfill 2020-present\
 Joint ICES/PICES Working Group on Impacts of Warming on Growth Rates\
 and Fisheries Yields (WGGRAFY)
 
