@@ -105,13 +105,13 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 \noindent
 
 [_Preprints_]
-
+_Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
 11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
-10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>
+10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996> *Featured on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat)
 
 9\. Belgrano, A, __Lindmark, M.__ 2022. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, 29(12), 3235--3236. <https://doi.org/10.1111/gcb.16665>
 
@@ -392,6 +392,8 @@ Main supervisor for project: *Effects of heatwaves on fish size-at-age*
 ```
 \noindent
 
+*Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
+
 *Making academic websites using GitHub, Quarto and RStudio*\hfill 2022
 <https://github.com/maxlindmark/quarto-website>
 
@@ -456,6 +458,8 @@ I communicated with prospective students, mostly through social media
 \setlength{\parskip}{8pt}
 ```
 \noindent
+
+Interview about the the paper [Larger but younger fish when growth outpaces mortality in heated ecosystem](https://doi.org/10.7554/eLife.82996) on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat)
 
 Co-managing research group's Instagram account @fishinfoodwebs\hfill 2016--2020
 

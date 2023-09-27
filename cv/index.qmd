@@ -32,11 +32,13 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 \[*Preprints*\]
 
+_Papers are removed from here when published open access_
+
 \[*Publications*\]
 
 11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
-10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>
+10\. **Lindmark, M.**, Karlsson, M., and G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>. *Featured on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat)
 
 9\. Belgrano, A, **Lindmark, M.** 2022. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, 29(12), 3235--3236 <https://doi.org/10.1111/gcb.16665>
 
@@ -155,7 +157,8 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
-| *Making academic websites using GitHub, Quarto and RStudio*. <https://github.com/maxlindmark/quarto-website> | 2022 |
+| Instructor at sdmTMB workshop in Bergen with IMR | 2023 |
+| *Making academic websites using GitHub, Quarto and RStudio*.<https://github.com/maxlindmark/quarto-website> | 2022 |
 | *Making graphics in R for popular report on status of fishes in Swedish*. <https://github.com/maxlindmark/ROM> | 2022 |
 | *LunchR*. A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated and organized together with student colleague Philip Jacobson. Material: <https://github.com/maxlindmark/LunchR>. <https://github.com/maxlindmark/ROM> | 2018 |
 | *Modelling population dynamics with MatCont*. Organized a session on numerical continuation analysis of a predator-prey model | 2018 |
@@ -182,6 +185,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
+| Interview about the the paper [Larger but younger fish when growth outpaces mortality in heated ecosystem](https://doi.org/10.7554/eLife.82996) on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat) | 2023 |
 | SLU 40th Anniversary, Uppsala (Poster). *Climate change and size-structured populations. Temperature dependent allometry and ontogenetic asymmetry shape warming responses of size structured populations* | 2017 |
 | Science evenings (high school), &Ouml;sthammar municipality (Talk). *Effects of warming on fishes* | 2017 |
 | Gothenburg Biological Society Popular talk at the Gothenburg Museum of Natural History on bycatch in small scale pelagic fisheries on the west coast of Sweden | 2014 |
