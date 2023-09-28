@@ -25,7 +25,8 @@ website:
         href: contact
 format:
   html:
-    theme: Simplex
+    #theme: Simplex
+    theme: [Simplex, clean.scss]
     fontsize: 1.2em
     image-width: 1.3em
     image-shape: round
