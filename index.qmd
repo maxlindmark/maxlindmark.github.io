@@ -11,13 +11,14 @@ comments: false
 
 ::: {.g-col-8}
 
-Hi! I'm a quantitative ecologist and a research scientist based in Lysekil, Sweden, at the Institute of Marine Research. I use statistical and mathematical models to study ecological systems. 
+Hi! I'm a quantitative ecologist and a research scientist based in Lysekil, Sweden, at the Institute of Marine Research. I use statistical, mathematical models, and theory to study ecological systems. 
 
 My research focuses mainly on:
 
-- Impacts of climate change on the spatial distribution of species and their body growth and size
-- Spatiotemporal aspects of ecological interactions
+- Impacts of climate change on species distributions and body size
+- Spatiotemporal modelling of ecological processes
 - Dynamics and structure of size-based food webs
+- Metabolic Ecology
 
 I'm an enthusiastic R user and enjoy working with packages such as [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and [brms](https://paul-buerkner.github.io/brms/) in my research.
 
