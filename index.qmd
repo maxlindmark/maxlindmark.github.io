@@ -1,6 +1,6 @@
 ---
 title: "Max Lindmark"
-subtitle: "Researcher at the Institute of Marine Research | SLU"
+subtitle: "Researcher <br> Institute of Marine Research <br> Swedish University of Agricultural Sciences (SLU)"
 image: avatar_old.jpg
 about:
   template: trestles
