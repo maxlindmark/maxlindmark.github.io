@@ -60,7 +60,7 @@ _Papers are removed from here when published open access_
 
 # Reports
 
-ICES. 2023. Workshop 2 on Fish Distribution (WKFISHDISH2; outputs from 2022 meeting). ICES Scientific Reports. 5:7. 127 pp. https://doi.org/10.17895/ices.pub.21692246
+ICES. 2023. Workshop 2 on Fish Distribution (WKFISHDISH2; outputs from 2022 meeting). ICES Scientific Reports. 5:7. 127 pp. <https://doi.org/10.17895/ices.pub.21692246>
 
 Havs- och vattenmyndigheten 2019. Fisk- och skaldjursbest&aring;nd i hav och s&ouml;tvatten 2018.\
 Resurs&ouml;versikt. Havs- och vattenmyndighetens rapport 2019:4. G&ouml;teborg, 305 s.
@@ -166,7 +166,7 @@ All lab material written by me is available on this github repository:\
 
 # Reviewing
 
-**Journals**: ICES Journal of Marine Science \| Fish and Fisheries \| Nature Communications \| Ecology \| Scientific Reports \| Functional Ecology \| PLOS ONE \| Oikos \| Proceedings of the Royal Society B \| Fisheries \| Canadian Journal of Fishery and Aquatic Sciences \| American Fisheries Society \| Global Ecology and Biogeography \| Ecology and Evolution \| Environmental Biology of Fishes
+**Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
 
 ||||
 |:------------|-:|
