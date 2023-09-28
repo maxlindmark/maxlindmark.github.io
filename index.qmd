@@ -15,7 +15,7 @@ Hi! I'm a quantitative ecologist and a research scientist based in Lysekil, Swed
 
 My research focuses mainly on:
 
-- Impacts of Climate change on the spatial distribution of species and their body growth and size
+- Impacts of climate change on the spatial distribution of species and their body growth and size
 - Spatiotemporal aspects of ecological interactions
 - Dynamics and structure of size-based food webs
 
