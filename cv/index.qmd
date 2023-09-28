@@ -186,7 +186,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
-| Interview about the the paper [Larger but younger fish when growth outpaces mortality in heated ecosystem](https://doi.org/10.7554/eLife.82996) on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat) | 2023 |
+| Interview about the paper [Larger but younger fish when growth outpaces mortality in heated ecosystem](https://doi.org/10.7554/eLife.82996) on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat) | 2023 |
 | SLU 40th Anniversary, Uppsala (Poster). *Climate change and size-structured populations. Temperature dependent allometry and ontogenetic asymmetry shape warming responses of size structured populations* | 2017 |
 | Science evenings (high school), &Ouml;sthammar municipality (Talk). *Effects of warming on fishes* | 2017 |
 | Gothenburg Biological Society Popular talk at the Gothenburg Museum of Natural History on bycatch in small scale pelagic fisheries on the west coast of Sweden | 2014 |
