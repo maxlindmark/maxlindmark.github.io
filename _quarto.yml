@@ -19,8 +19,6 @@ website:
         href: blog
       - text: "GitHub"
         href: https://github.com/maxlindmark
-      - text: "Mastodon"
-        href: https://ecoevo.social/@mlindmark
       - text: "Contact"
         href: contact
 format:
