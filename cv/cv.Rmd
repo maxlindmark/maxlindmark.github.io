@@ -399,6 +399,8 @@ Main supervisor for project: *Effects of heatwaves on fish size-at-age*
 
 *Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
 
+*Lead grant writing workshop aimed towards ECRs at SLU Aqua*\hfill 2022
+
 *Making academic websites using GitHub, Quarto and RStudio*\hfill 2022
 <https://github.com/maxlindmark/quarto-website>
 
