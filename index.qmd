@@ -11,9 +11,9 @@ comments: false
 
 ::: {.g-col-8}
 
-Hi! I'm a quantitative ecologist and a research scientist based in Lysekil, Sweden, at the Institute of Marine Research. I use statistical, mathematical models, and theory to study ecological systems. 
+Hi! I'm a quantitative ecologist and a research scientist based in Lysekil, Sweden, at the Institute of Marine Research. I use statistical and mathematical models to study ecological impacts of climate change. 
 
-My research focuses mainly on:
+Specifically, my research focuses mainly on:
 
 - Impacts of climate change on species distributions and body size
 - Spatiotemporal modelling of ecological processes
