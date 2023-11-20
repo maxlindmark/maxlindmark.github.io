@@ -167,7 +167,7 @@ Resurs&ouml;versikt
 \setlength{\parskip}{8pt}
 ```
 
-# Grants & awards
+# Grants
 \vspace{-10pt}
 
 ```{=tex}
@@ -177,17 +177,41 @@ Resurs&ouml;versikt
 ```
 \noindent
 
-Formas research projects for early-career researchers\hfill 2023--2016\
-Principal Investigator of a four-year grant from the Swedish Research Council Formas\
-for Early Career Researchers. Project title: *Improving estimates of climate-driven\
-body size changes and range shifts in fishes by accounting for fine-scale spatial\
-heterogeneity*. (3 990 209 SEK)
+Oscar and Lili Lamm Memorial Foundation\hfill 2023\
+Principal Investigator of a one-year grant (2024-2025).\
+Project title: *Is the decline in size and body growth of Baltic Sea cod due to lack\
+of food*. (995 546 SEK)
+
+Formas research projects for early-career researchers\hfill 2022\
+Principal Investigator of a four-year (2023--2016) grant from the Swedish Research\
+Council Formas for Early Career Researchers. Project title: *Improving estimates of\
+climate-driven body size changes and range shifts in fishes by accounting for fine-\
+scale spatial heterogeneity*. (3 990 209 SEK)
 
 Sven och Dagmar Saléns stiftelse (Travel grant) (5 616 SEK)\hfill 2019
 
 Knut and Alice Wallenbergs foundation (Travel grant) (24 000 SEK)\hfill 2018
 
 SLU funds for internationalization of graduate education (Travel grant) (28 000 SEK)\hfill 2016
+
+```{=tex}
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{8pt}
+```
+
+# Awards
+\vspace{-10pt}
+
+```{=tex}
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+```
+\noindent
+
+SORTEE\hfill 2023\
+Finalist of the SORTEE Open Science Researcher Award
 
 Lindsay Laird Prize\hfill 2015\
 In recognition of all-round performance in the Applied Marine and Fisheries Ecology\

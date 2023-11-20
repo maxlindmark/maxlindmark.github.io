@@ -1,4 +1,8 @@
 2023
+:   PICES Annual Science meeting, Seattle (invited talk)
+*Non-linear growth-temperature relationship leads to opposite response to warming in cold versus warm populations* [pdf](lindmark-pices.pdf)
+
+2023
 :   Swedish Oikos meeting
 *Quantifying competition between two demersal fish species* [pdf](Lindmark_etal_Oikos23.pdf)
 

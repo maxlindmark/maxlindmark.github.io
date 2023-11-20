@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  30 OCT 2023 09:37
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.28)  20 NOV 2023 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,17 +814,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 496--497
+] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
  
  []
 
-[4] [5] [6] (./cv.aux) ) 
+[5] [6] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 20051 strings out of 478777
- 369089 string characters out of 5849638
+ 20053 strings out of 478777
+ 369096 string characters out of 5849638
  1862979 words of memory out of 5000000
- 39805 multiletter control sequences out of 15000+600000
+ 39807 multiletter control sequences out of 15000+600000
  515784 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,12n,121p,999b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
