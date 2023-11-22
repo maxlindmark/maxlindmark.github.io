@@ -20,7 +20,7 @@ Specifically, my research focuses mainly on:
 - Dynamics and structure of size-based food webs
 - Metabolic Ecology
 
-I'm an enthusiastic R user and enjoy working with packages such as [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and [brms](https://paul-buerkner.github.io/brms/) in my research.
+I enjoy working with R and often use packages such as [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and [brms](https://paul-buerkner.github.io/brms/) in my research.
 
 In my free time I like to tinker with my bicycle. And occasionally ride it too, with my family if I can choose. And cook food, ideally something fermented.
 
