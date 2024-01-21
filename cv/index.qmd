@@ -32,6 +32,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 \[*Preprints*\]
 
+**Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
+
 Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2023. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *bioRxiv*, <https://doi.org/10.1101/2023.10.25.563919>
 
 _Papers are removed from here when published open access_
@@ -108,6 +110,7 @@ Resurs&ouml;versikt
 
 ||||
 |:------------|-:|
+| **PICES-2023 Annual Meeting** (Seattle): *Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations* | 2023 |
 | **PICES 5th International Symposium on the Effects of Climate Change on the World's Ocean** (ECCWO-5), Bergen: *Local changes in demersal fish biomass in relation to oxygen, temperature, and the metabolic index in a warming and deoxygenating ecosystem* | 2023 |
 | **Swedish Oikos Meeting**, Gothenburg: *Quantifying competition between two demersal fish species* | 2023 |
 | **ICES ASC** (Remote talk): *Higher mortality rates leave heated ecosystem with similar size structure despite larger, younger, and faster growing fish* | 2022 |
@@ -142,6 +145,13 @@ All lab material written by me is available on this github repository:\
 
 # Supervision
 
+**Postdocs**
+
+||||
+|:------------|-:|
+| Viktor Thunell, Swedish University of Agricultural Sciences | 2024-- |
+
+
 **PhD students**
 
 ||||
@@ -168,6 +178,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
+| Quantitative skill-sharing sessions | 2024 |
 | Instructor at thesis writing workshop SLU | 2023 |
 | Instructor at sdmTMB workshop in Bergen with IMR | 2023 |
 | Lead grant writing workshop aimed towards ECRs at SLU Aqua | 2022 |
@@ -178,7 +189,7 @@ All lab material written by me is available on this github repository:\
 
 # Reviewing
 
-| **Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
+| **Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Reviews in Fish Biology and Fisheries | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
 
 ||||
 |:------------|-:|

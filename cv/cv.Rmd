@@ -106,6 +106,8 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 [_Preprints_]
 
+**Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
+
 Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2023. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *bioRxiv*, <https://doi.org/10.1101/2023.10.25.563919>
 
 _Papers are removed from here when published in open access journal_
@@ -270,6 +272,9 @@ Gulf of Maine Research Institute May Seminar (GMRI) (video)\hfill May 2021\
 ```
 \noindent
 
+PICES-2023 Annual Meeting (Seattle)\hfill October 2023\
+*Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations*
+
 PICES 5th International Symposium on the Effects of Climate Change \hfill 2023\
 on the World's Ocean (ECCWO-5), Bergen \
 *Local changes in demersal fish biomass in relation to oxygen, temperature,\
@@ -376,6 +381,11 @@ Lecture on ecological interactions <https://github.com/maxlindmark/pfs>
 ```
 \noindent
 
+**Postdocs**
+
+Viktor Thunell, Swedish University of Agricultural Sciences\hfill 2024--\
+
+
 **PhD students**
 
 Henry Hansen, Karlstad University (co-supervisor)\hfill 2023--\
@@ -422,6 +432,10 @@ Main supervisor for project: *Effects of heatwaves on fish size-at-age*
 ```
 \noindent
 
+*Quantitative skill-sharing sessions*\hfill 2024
+
+*Instructor at thesis writing workshop SLU*\hfill 2023
+
 *Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
 
 *Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
@@ -454,7 +468,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 \noindent
-**Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes | 
+**Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Reviews in Fish Biology and Fisheries | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes | 
 
 Proposals: External evaluation of PhD proposal at Ifremer\hfill 2022
 
