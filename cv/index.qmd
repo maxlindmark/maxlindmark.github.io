@@ -1,13 +1,13 @@
 My CV is available as a [pdf](cv.pdf), but also below
 
-# Professional experience
+### Professional experience
 
 ||||
 |:------------|-:|
 | **Researcher**, Swedish University of Agricultural Sciences, Institute of Marine Research | 2022-- |
 | **Post-doctoral researcher**, Swedish University of Agricultural Sciences, Institute of Marine Research | 2020--2022 |
 
-# Education
+### Education
 
 ||||
 |:------------|-:|
@@ -26,7 +26,7 @@ My CV is available as a [pdf](cv.pdf), but also below
 <!-- |    1  |    1 |     1   |     1  | -->
 
 
-# Publications
+### Publications
 
 [Google Scholar profile](https://scholar.google.se/citations?user=X-rwWCcAAAAJ&hl=en)
 
@@ -65,7 +65,7 @@ Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., R
 
 1\. **Lindmark, M.**, Huss, M., Ohlberger, J. G&aring;rdmark, A. 2018. Temperature-dependent body size effects determine population responses to climate warming. *Ecology letters*, 21(2), pp. 181--189. <https://doi.org/10.1111/ele.12880>
 
-# Reports
+### Reports
 
 ICES. 2023. Workshop 2 on Fish Distribution (WKFISHDISH2; outputs from 2022 meeting). ICES Scientific Reports. 5:7. 127 pp. <https://doi.org/10.17895/ices.pub.21692246>
 
@@ -79,7 +79,7 @@ Havs- och vattenmyndigheten 2016. Fisk- och skaldjursbest&aring;nd i hav och s&o
 Resurs&ouml;versikt
 
 
-# Grants
+### Grants
 
 ||||
 |:------------|-:|
@@ -90,7 +90,7 @@ Resurs&ouml;versikt
 | **SLU funds for internationalization of graduate education** (Travel grant) (28 000 SEK) (Travel grant) (24 000 SEK) | 2016 |
 
 
-# Awards
+### Awards
 
 ||||
 |:------------|-:|
@@ -100,7 +100,7 @@ Resurs&ouml;versikt
 | **Gothenburg Biological Society** Stipend for well accomplished bachelor's thesis: *By-catch in pelagic fisheries: A study on by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014* | 2014 |
 
  
-# Invited talks
+### Invited talks
 
 ||||
 |:------------|-:|
@@ -109,7 +109,7 @@ Resurs&ouml;versikt
 | **Svensk Fiskh&auml;lsa** (Uppsala): *Fish and fisheries in a changing climate* | 2022 |
 | **Gulf of Maine Research Institute May Seminar (GMRI)** (video): *Understanding the effects of climate warming on food webs via individual-level physiology* | 2021 |
 
-# Conferences
+### Conferences
 
 ||||
 |:------------|-:|
@@ -127,14 +127,14 @@ Resurs&ouml;versikt
 | **Swedish Oikos Meeting**, Lund (Talk): *Climate change and size-structured populations. Temperature dependent allometry and ontogenetic asymmetry shape warming responses of size structured populations* | 2017 |
 
 
-# Working Groups
+### Working Groups
 
 ||||
 |:------------|-:|
 | **WGGRAFY**. Joint ICES/PICES Working Group on Impacts of Warming on Growth Rates and Fisheries Yields (WGGRAFY) | 2020-- |
 
 
-# Teaching
+### Teaching
 
 ||||
 |:------------|-:|
@@ -146,7 +146,7 @@ All lab material written by me is available on this github repository:\
 <https://github.com/maxlindmark/comp-labs-ecology>
 
 
-# Supervision
+### Supervision
 
 **Postdocs**
 
@@ -177,7 +177,7 @@ All lab material written by me is available on this github repository:\
 | Lisa Sch&uuml;ttler, University of Gothenburg. Main supervisor for project: *Effects of heatwaves on fish size-at-age* | 2023 |
 
 
-# Workshops
+### Workshops
 
 ||||
 |:------------|-:|
@@ -190,7 +190,8 @@ All lab material written by me is available on this github repository:\
 | *LunchR*. A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated and organized together with student colleague Philip Jacobson. Material: <https://github.com/maxlindmark/LunchR>. <https://github.com/maxlindmark/ROM> | 2018 |
 | *Modelling population dynamics with MatCont*. Organized a session on numerical continuation analysis of a predator-prey model | 2018 |
 
-# Reviewing
+
+### Reviewing
 
 | **Journals**: Nature Communications | Fish and Fisheries | ICES Journal of Marine Science | Ecology | Scientific Reports | Reviews in Fish Biology and Fisheries | Functional Ecology | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
 
@@ -199,7 +200,7 @@ All lab material written by me is available on this github repository:\
 | **Proposals**: External evaluation of PhD proposal at Ifremer | 2019 |
 
 
-# University Services
+### University Services
 
 ||||
 |:------------|-:|
@@ -208,7 +209,7 @@ All lab material written by me is available on this github repository:\
 | Student Ambassador. Applied Marine and Fisheries Ecology. I communicated with prospective students, mostly through social media | 2014--2015 |
 
 
-# Outreach
+### Outreach
 
 ||||
 |:------------|-:|
