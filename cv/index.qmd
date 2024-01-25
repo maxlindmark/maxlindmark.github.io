@@ -30,7 +30,9 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 [Google Scholar profile](https://scholar.google.se/citations?user=X-rwWCcAAAAJ&hl=en)
 
-\[*Preprints*\]
+#### Preprints
+
+_Papers are removed from here when published open access_
 
 Blanchard, J. L., \[...\] **Lindmark, M.**\*, \[...\] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.170594183.33534487/v1. <https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0> _Author list truncated_ \*31/43
 
@@ -38,9 +40,8 @@ Blanchard, J. L., \[...\] **Lindmark, M.**\*, \[...\] Tittensor, D. 2024. Detect
 
 Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2023. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *bioRxiv*, <https://doi.org/10.1101/2023.10.25.563919>
 
-_Papers are removed from here when published open access_
 
-\[*Publications*\]
+#### Publications
 
 11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
