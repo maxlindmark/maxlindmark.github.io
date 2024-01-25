@@ -106,6 +106,8 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 [_Preprints_]
 
+Blanchard, J. L. [...] __Lindmark, M.__* [...] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.170594183.33534487/v1. <https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0> _Author list truncated_ *31/43
+
 **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
 
 Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2023. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *bioRxiv*, <https://doi.org/10.1101/2023.10.25.563919>
@@ -120,7 +122,7 @@ _Papers are removed from here when published in open access journal_
 
 9\. Belgrano, A, __Lindmark, M.__ 2023. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, 29(12), 3235--3236. <https://doi.org/10.1111/gcb.16665>
 
-8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103. <https://doi.org/10.1086/722899> *16/26
+8\. Woods, A. H, Moran, A. L. [...] __Lindmark, M.__* [...], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103. <https://doi.org/10.1086/722899> _Author list truncated_ *16/26
 
 7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., __Lindmark, M.__, Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *The Biological Bulletin*, 243(2), pp. 220--238. <https://doi.org/10.1086/722027>
 
