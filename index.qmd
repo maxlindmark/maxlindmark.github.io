@@ -13,7 +13,7 @@ comments: false
 
 Hi!
 
-I'm a quantitative ecologist working as a research scientist at the Institute of Marine Research, Department of Aquatic Resources, Swedish University of Agricultural Sciences in Lysekil, Sweden. I use statistical and mathematical models to study ecological impacts of climate change to improve our understanding and management of marine ecosystems.
+I'm a quantitative ecologist working as a research scientist at the Institute of Marine Research, Swedish University of Agricultural Sciences in Lysekil, Sweden. I use statistical and mathematical models to study ecological impacts of climate change to improve our understanding and management of marine ecosystems.
 
 Specifically, my research focuses mainly on:
 
