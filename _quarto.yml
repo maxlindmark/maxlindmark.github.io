@@ -25,9 +25,8 @@ format:
   html:
     #theme: Simplex
     theme: [Simplex, clean.scss]
-    fontsize: 1.2em
-    image-width: 1.3em
+    fontsize: 1.05em
+    image-width: 1.2em
     image-shape: round
-    page-layout: full 
     css: styles.css
     toc: true
