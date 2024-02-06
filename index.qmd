@@ -22,7 +22,7 @@ Specifically, my research focuses mainly on:
 - Spatiotemporal modelling of ecological processes
 - Dynamics and structure of size-based food webs using process-based modelling (for this line of research, I'm also involved in the  [FishMIP](https://www.isimip.org/about/marine-ecosystems-fisheries/))
 
-In my free time I like to tinker with my bicycle. And occasionally ride it too, with my family if I can choose. And cook food, ideally something fermented.
+In my free time I like to tinker with my bicycle, and occasionally ride it too with my family. And I like to bake bread and cook food, ideally something fermented.
 
 Feel free to [contact](contact) me if you want to get in touch, or if you want collaborate on a project or even a grant proposal! I have experience applying for grants from the Swedish Research Councils and also smaller foundations and can supervise postdocs.
 :::
