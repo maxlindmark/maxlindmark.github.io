@@ -116,6 +116,8 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
+12\. Reum, J. C. P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J. L. 2024. Temperature-Dependence Assumptions Drive Projected Responses of Diverse Size-Based Food Webs to Warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
+
 11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
 10\. **Lindmark, M.**, Karlsson, M., G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996> *Featured on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat)
