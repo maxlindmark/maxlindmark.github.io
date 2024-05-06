@@ -34,6 +34,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
+**Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
+
 Blanchard, J. L., \[...\] **Lindmark, M.**\*, \[...\] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.170594183.33534487/v1. <https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0> _Author list truncated_ \*31/43
 
 **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
@@ -163,7 +165,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
-| Henry Hansen, Karlstad University (co-supervisor) | 2023-- |
+| Henry Hansen, Karlstad University (co-supervisor) | 2023--2024 |
 
 **MSc students**
 
@@ -197,7 +199,7 @@ All lab material written by me is available on this github repository:\
 
 ### Reviewing
 
-| **Journals**: Nature Communications | Fish and Fisheries | Science Advances | ICES Journal of Marine Science | Ecology | Scientific Reports | Reviews in Fish Biology and Fisheries | Functional Ecology | American Naturalist | PLOS ONE | Oikos | Proceedings of the Royal Society B | Fisheries | Canadian Journal of Fishery and Aquatic Sciences | American Fisheries Society | Global Ecology and Biogeography | Ecology and Evolution | Environmental Biology of Fishes
+| **Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | PLOS ONE | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
 
 ||||
 |:------------|-:|
