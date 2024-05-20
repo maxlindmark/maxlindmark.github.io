@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  9 MAY 2024 14:48
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  20 MAY 2024 08:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,24 +813,39 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/maxlindmark/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 3364) in paragraph at lines 183--189
+Underfull \hbox (badness 2326) in paragraph at lines 177--183
+ \TU/lmr/m/n/10 Blanchard, J. L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating
+ []
+
+
+Overfull \hbox (2.36624pt too wide) in paragraph at lines 177--183
+ \TU/lmr/m/n/10 soar.171587234.44707846/v1. [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][] [][] [][] [][] [][][][][][][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+ [][][][][][] [][] [][] [][] [][][][][][][][] [][] [][][][][] [][] [][][][][][][][] [][] [][][] [][] [][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][] [][] [][] [][] [][][][][][] [][] [][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 190--196
  \TU/lmr/m/n/10 soar.170594183.33534487/v1. [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][] [][] [][][][][][][][][] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--196
  [][][][][][][][][][][] [][] [][][] [][] [][][][][][][][][][] [][] [][][][][][] [][] [][][][][][] [][] [][][][][][][][][] [][] [][][] [][] [][][][][][][][][] [][] [][][][][][] [][] [][][][][][][] [][] [] [][] []$[][] \TU/lmr/m/it/10 Author list
  []
 
 [1
 
 ] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 561--563
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 566--567
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
  
  []
 
@@ -838,10 +853,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 566--567
 Here is how much of TeX's memory you used:
  20053 strings out of 478777
  369096 string characters out of 5849639
- 1866979 words of memory out of 5000000
+ 1868979 words of memory out of 5000000
  39807 multiletter control sequences out of 15000+600000
  515784 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,11n,121p,999b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,12n,121p,999b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv.pdf (7 pages).

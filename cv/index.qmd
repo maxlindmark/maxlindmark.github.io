@@ -34,6 +34,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
+Ortega-Cisneros, Arcos, L. D. F,  **Lindmark, M.**\*, \[...\] Blanchard, J. L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
+
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
 Blanchard, J. L., \[...\] **Lindmark, M.**\*, \[...\] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.170594183.33534487/v1. <https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0> _Author list truncated_ \*31/43
