@@ -34,7 +34,9 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
-Ortega-Cisneros, Arcos, L. D. F,  **Lindmark, M.**\*, \[...\] Blanchard, J. L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
+Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D.2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1. <10.22541/au.171813253.38400021/v15>
+
+Ortega-Cisneros, Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
 
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
@@ -47,19 +49,19 @@ Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., R
 
 #### Publications
 
-12\. Reum, J. C. P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J. L. 2024. Temperature-Dependence Assumptions Drive Projected Responses of Diverse Size-Based Food Webs to Warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
+12\. Reum, J.C.P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J.L. 2024. Temperature-Dependence Assumptions Drive Projected Responses of Diverse Size-Based Food Webs to Warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
 
-11\. **Lindmark, M.**, Anderson, S. C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
+11\. **Lindmark, M.**, Anderson, S.C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
 10\. **Lindmark, M.**, Karlsson, M., G&aring;rdmark, A. 2023. Larger but younger fish when growth outpaces mortality in heated ecosystem. *eLife*, 12, e82996. <https://doi.org/10.7554/eLife.82996>. *Featured on [The Naked Scientist podcast](https://www.thenakedscientists.com/articles/interviews/nuclear-fish-heat)
 
 9\. Belgrano, A, **Lindmark, M.** 2023. Biodiversity transformations in the global ocean: a climate change and conservation management perspective. *Global Change Biology*, 29(12), 3235--3236 <https://doi.org/10.1111/gcb.16665>
 
-8\. Woods, A. H, Moran, A. L. \[...\] **Lindmark, M.**\* \[...\], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103. <https://doi.org/10.1086/722899> _Author list truncated_ \*16/26
+8\. Woods, A.H, Moran, A.L. \[...\] **Lindmark, M.**\* \[...\], Verberk, C.E.P. 2022. Integrative Approaches to Understanding Organismal Responses to Aquatic Deoxygenation. *The Biological Bulletin*, 243(2), pp. 85--103. <https://doi.org/10.1086/722899> _Author list truncated_ \*16/26
 
 7\. Audzijonyte, A., Jakubavi&#269;i&#363;t&#279;, E., **Lindmark, M.**, Richards, S.A. 2022. Mechanistic temperature-size rule explanation should reconcile physiological and mortality responses to temperature. *The Biological Bulletin*, 243(2), pp. 220--238. <https://doi.org/10.1086/722027>
 
-6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J. L. G&aring;rdmark, A. 2022. Temperature impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes and yields under warming. *Global Change Biology*, 28(21), 6239--6253. <https://doi.org/10.1111/gcb.16341>
+6\. **Lindmark, M.**, Audzijonyte, A., Blanchard, J.L. G&aring;rdmark, A. 2022. Temperature impacts on fish physiology and resource abundance lead to faster growth but smaller fish sizes and yields under warming. *Global Change Biology*, 28(21), 6239--6253. <https://doi.org/10.1111/gcb.16341>
 
 5\. **Lindmark, M.**, Ohlberger, J., G&aring;rdmark, A. 2022. Optimum growth temperature declines with body size within fish species. *Global Change Biology*, 28(7), pp. 2259--2271. <https://doi.org/10.1111/gcb.16067>
 
