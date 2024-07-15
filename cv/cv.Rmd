@@ -192,13 +192,13 @@ Resurs&ouml;versikt
 \noindent
 
 Oscar and Lili Lamm Memorial Foundation\hfill 2023\
-Principal Investigator of a one-year grant (2024-2025).\
+Principal Investigator of a one-year grant (grant no. FO2023-0037) 2024--2025.\
 Project title: *Is the decline in size and body growth of Baltic Sea cod due to lack\
 of food?* (995 546 SEK)
 
 Formas research projects for early-career researchers\hfill 2022\
 Principal Investigator of a four-year (2023--2016) grant from the Swedish Research\
-Council Formas for Early Career Researchers  (grant no. 2022-01511). Project title:\
+Council Formas for Early Career Researchers (grant no. 2022-01511). Project title:\
 *Improving estimates of climate-driven body size changes and range shifts in fishes\
 by accounting for fine-scale spatial heterogeneity*. (3 990 209 SEK)
 
@@ -342,7 +342,7 @@ ontogenetic asymmetry shape warming responses of size structured populations*
 \noindent
 
 WGGRAFY\hfill 2020-present\
-Joint ICES/PICES Working Group on Impacts of Warming on Growth Rates\
+Chair of joint ICES/PICES Working Group on Impacts of Warming on Growth Rates\
 and Fisheries Yields (WGGRAFY)
 
 ```{=tex}
@@ -361,8 +361,9 @@ and Fisheries Yields (WGGRAFY)
 ```
 \noindent
 
-All lab material written by me is available on this github repository:\
-<https://github.com/maxlindmark/comp-labs-ecology>
+*Principles in Fisheries Science*\hfill 2018--\
+Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.\
+Lecture on ecological interactions <https://github.com/maxlindmark/pfs>
 
 *Sustainability perspectives on contemporary fisheries. Where have all the fishes gone?*\hfill 2019\
 Teaching assistant. Lecture on climate impacts on global fisheries.
@@ -372,9 +373,8 @@ Teaching assistant. Wrote R lab Population dynamics and harvesting, lecture on f
 morphology, physiology, and energetics, supervising and grading student projects,\
 exam questions and marking.
 
-*Principles in Fisheries Science*\hfill 2018--2022\
-Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.\
-Lecture on ecological interactions <https://github.com/maxlindmark/pfs>
+All lab material written by me is available on this github repository:\
+<https://github.com/maxlindmark/comp-labs-ecology>
 
 
 ```{=tex}
@@ -480,7 +480,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 \noindent
-**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
+**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
 
 Proposals: External evaluation of PhD proposal at Ifremer\hfill 2022
 
