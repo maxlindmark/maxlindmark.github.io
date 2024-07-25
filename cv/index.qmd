@@ -203,7 +203,7 @@ All lab material written by me is available on this github repository:\
 
 ### Reviewing
 
-| **Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
+| **Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | PNAS | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
 
 ||||
 |:------------|-:|

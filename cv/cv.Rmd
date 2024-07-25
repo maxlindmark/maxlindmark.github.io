@@ -480,7 +480,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 \noindent
-**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
+**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Oikos | Peer J | PLOS ONE | PNAS | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science Advances | Scientific Reports
 
 Proposals: External evaluation of PhD proposal at Ifremer\hfill 2022
 
