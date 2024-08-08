@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  5 AUG 2024 10:32
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  8 AUG 2024 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -840,12 +840,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--201
 [1
 
 ] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 575--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--582
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--581
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
  
  []
 
