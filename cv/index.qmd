@@ -197,7 +197,7 @@ All lab material written by me is available on this github repository:\
 | Instructor at thesis writing workshop SLU | 2023 |
 | Instructor at sdmTMB workshop in Bergen with IMR | 2023 |
 | Lead grant writing workshop aimed towards ECRs at SLU Aqua | 2022 |
-| *Making academic websites using GitHub, Quarto and RStudio*.<https://github.com/maxlindmark/quarto-website> | 2022 |
+| *Making academic websites using GitHub, Quarto and RStudio*. <https://github.com/maxlindmark/quarto-website> | 2022 |
 | *Making graphics in R for popular report on status of fishes in Swedish*. <https://github.com/maxlindmark/ROM> | 2022 |
 | *LunchR*. A department wide R course in data wrangling and plotting (4x1 hour). Solely initiated and organized together with student colleague Philip Jacobson. Material: <https://github.com/maxlindmark/LunchR>. <https://github.com/maxlindmark/ROM> | 2018 |
 | *Modelling population dynamics with MatCont*. Organized a session on numerical continuation analysis of a predator-prey model | 2018 |
