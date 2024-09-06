@@ -34,9 +34,9 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
-Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D.2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1.
+Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1.
 
-Ortega-Cisneros, Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
+Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
 
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
