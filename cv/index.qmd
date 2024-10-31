@@ -40,16 +40,16 @@ Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 
 
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
-Blanchard, J. L., \[...\] **Lindmark, M.**\*, \[...\] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.170594183.33534487/v1. <https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0> _Author list truncated_ \*31/43
-
 **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Stronger effect of temperature on body growth in cool than in warm populations suggests lack of local adaptation. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
-
-Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2023. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *bioRxiv*, <https://doi.org/10.1101/2023.10.25.563919>
 
 
 #### Publications
 
-13\. Hansen, H. H., Bergman, E., Kopf, K., **Lindmark, M.** Resistance of Australian fish communities to drought and flood: implications for climate change and adaptations. *Ecography*. Early view. <https://doi.org/10.1111/ecog.07442>
+15\. Blanchard, J. L. [...] __Lindmark, M.__* [...] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *Earth's Future*. Accepted. _Author list truncated_ *31/43
+
+14\. Maioli, M., Weigel, B., **Lindmark, M.**, Manfredi, C., Zupa, W., Bitetto, I., Russo, T., Casini, M. 2024. Assessing the overlap between fishing activities and chondrichthyans distribution exposes high-risk areas for bycatch of threatened species. *Ecosphere*. Accepted.
+
+13\. Hansen, H. H., Bergman, E., Kopf, K., **Lindmark, M.** 2024. Resistance of Australian fish communities to drought and flood: implications for climate change and adaptations. *Ecography*. Early view. <https://doi.org/10.1111/ecog.07442>
 
 12\. Reum, J.C.P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J.L. 2024. Temperature-Dependence Assumptions Drive Projected Responses of Diverse Size-Based Food Webs to Warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
 
