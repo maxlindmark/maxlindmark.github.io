@@ -365,6 +365,9 @@ and Fisheries Yields (WGGRAFY)
 ```
 \noindent
 
+*Bl&aring; omst&auml;llning f&ouml;r h&aring;llbara hav och vatten ("Blue transformation for sustainable oceans")*\hfill 2024\
+Lecture on global and national fisheries <https://github.com/maxlindmark/MOOC-course>
+
 *Principles in Fisheries Science*\hfill 2018--\
 Teaching assistant. Wrote R lab Impacts of fishing in an ecological context.\
 Lecture on ecological interactions <https://github.com/maxlindmark/pfs>
