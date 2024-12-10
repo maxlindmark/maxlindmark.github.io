@@ -108,8 +108,6 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1.
 
-Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *ESS OPEN ARCHIVE*, DOI: 10.22541/essoar.171587234.44707846/v1. <https://essopenarchive.org/users/713516/articles/937957-an-integrated-global-to-regional-scale-workflow-for-simulating-climate-change-impacts-on-marine-ecosystems?commit=1fbb7a961192410ec607e673b623b923bed82925> _Author list truncated_ \*3/40
-
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
 **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Stronger effect of temperature on body growth in cool than in warm populations suggests lack of local adaptation. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
@@ -117,6 +115,8 @@ Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 
 _Papers are removed from here when published in open access journal_
 
 [_Publications_]
+
+16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. Accepted. _Author list truncated_ \*3/40
 
 15\. Blanchard, J. L. [...] __Lindmark, M.__* [...] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *Earth's Future*. Accepted. _Author list truncated_ *31/43
 

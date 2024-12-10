@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  29 NOV 2024 12:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.12.1)  10 DEC 2024 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,30 +812,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/maxlindmark/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Underfull \hbox (badness 1803) in paragraph at lines 182--188
- \TU/lmr/m/n/10 mate Change Impacts on Marine Ecosystems. \TU/lmr/m/it/10 ESS OPEN ARCHIVE\TU/lmr/m/n/10 , DOI: 10.22541/es-
- []
-
-
-Overfull \hbox (2.36624pt too wide) in paragraph at lines 182--188
- \TU/lmr/m/n/10 soar.171587234.44707846/v1. [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][] [][] [][] [][] [][][][][][][][][][] [][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--188
- [][][][][][] [][] [][] [][] [][][][][][][][] [][] [][][][][] [][] [][][][][][][][] [][] [][][] [][] [][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][] [][] [][] [][] [][][][][][] [][] [][][][][][][][][][] []
- []
-
-[1
+) [1
 
 ] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 588--590
+Underfull \hbox (badness 10000) in paragraph at lines 586--588
  
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 593--594
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
  
  []
 
