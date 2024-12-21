@@ -34,6 +34,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
+**Lindmark, M.**, Anderson, S.C., Thorson, J. 2024 Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *bioRxiv*, <https://doi.org/10.1101/2024.12.17.628864>
+
 Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1.
 
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
