@@ -106,7 +106,7 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 [_Preprints_]
 
-**Lindmark, M.**, Anderson, S.C., Thorson, J. 2024 Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *bioRxiv*, <https://doi.org/10.1101/2024.12.17.628864>
+**Lindmark, M.**, Anderson, S.C., Thorson, J. 2024. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *bioRxiv*, <https://doi.org/10.1101/2024.12.17.628864>
 
 Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Authorea*, DOI: 10.22541/au.171813253.38400021/v1.
 
