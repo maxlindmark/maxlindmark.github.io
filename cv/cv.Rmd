@@ -6,6 +6,10 @@ output:
     extra_dependencies: ["hanging", "fancyhdr", "datetime"]
 geometry: margin=1in
 urlcolor: blue
+header-includes:
+  - \usepackage{hyperref}
+  - \usepackage{graphicx}
+  - \newcommand{\orcidID}{\href{https://orcid.org/0000-0002-1234-5678}{\includegraphics[width=0.35cm]{images/orcid.png}}}
 ---
 
 ```{r setup, include=FALSE}
@@ -42,8 +46,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Swedish University of Agricultural Sciences\hfill +46104784173 (tel)\
 Department of Aquatic Resources\hfill max.lindmark@slu.se\
-Turistgatan 5\hfill max.lindmark@tuta.io\
-453 30 Lysekil Sweden \hfill https://maxlindmark.github.io
+Turistgatan 5\hfill max.lindmark@tuta.io \
+453 30 Lysekil Sweden\hfill https://maxlindmark.github.io \
+\phantom{x}\hfill \href{https://orcid.org/0000-0002-3841-4044}{0000-0002-3841-4044} \orcidID
 
 
 # Professional experience
@@ -120,7 +125,7 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
-16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, \[...\] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. Accepted. _Author list truncated_ \*3/40
+16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, [...] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. Accepted. _Author list truncated_ \*3/40
 
 15\. Blanchard, J. L. [...] __Lindmark, M.__* [...] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *Earth's Future*. 12(12). _Author list truncated_ *31/43
 
