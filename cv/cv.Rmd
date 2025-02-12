@@ -133,7 +133,7 @@ _Papers are removed from here when published in open access journal_
 
 13\. Hansen, H. H., Bergman, E., Kopf, K., **Lindmark, M.** 2024. Resistance of Australian fish communities to drought and flood: implications for climate change and adaptations. *Ecography*. 2025(1), e07442. <https://doi.org/10.1111/ecog.07442>
 
-12\. Reum, J.C.P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J.L.2024. Temperature-Dependence Assumptions Drive Projected Responses of Diverse Size-Based Food Webs to Warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
+12\. Reum, J.C.P., Woodworth-Jefcoats, P., Novaglio, C., Forestier, R., Audzijonyte, A., G&aring;rdmark, A., **Lindmark, M.**, Blanchard, J.L. 2024. Temperature-dependence assumptions drive projected responses of diverse size-based food webs to warming. *Earth's Future*. 12(3). <https://doi.org/10.1029/2023EF003852>
 
 11\. **Lindmark, M.**, Anderson, S.C., Gogina, M., Casini, M. 2023. Evaluating drivers of spatiotemporal variability in individual condition of a bottom-associated marine fish, Atlantic cod (*Gadus morhua*). *ICES Journal of Marine Science*, 80(5), 1539--1550 <https://doi.org/10.1093/icesjms/fsad084>
 
@@ -463,8 +463,6 @@ Main supervisor for project: *Effects of heatwaves on fish size-at-age*
 *Quantitative skill-sharing sessions*\hfill 2024
 
 *Instructor at thesis writing workshop SLU*\hfill 2023
-
-*Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
 
 *Instructor at sdmTMB workshop in Bergen with IMR*\hfill 2023
 
