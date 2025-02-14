@@ -125,7 +125,7 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
-16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, [...] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. Accepted. _Author list truncated_ \*3/40
+16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, [...] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. Accepted. <https://doi.org/10.1029/2024EF004826>. _Author list truncated_ \*3/40
 
 15\. Blanchard, J. L. [...] __Lindmark, M.__* [...] Tittensor, D. 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *Earth's Future*. 12(12). <https://doi.org/10.1029/2023EF004402> _Author list truncated_ *31/43
 
@@ -494,7 +494,7 @@ Organized a session on numerical continuation analysis of a predator-prey model
 \setlength{\parskip}{8pt}
 ```
 \noindent
-**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Nature Ecology and Evolution | Oikos | Peer J | PLOS ONE | PNAS | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science | Science Advances | Scientific Reports
+**Journals**: American Fisheries Society | American Naturalist | Canadian Journal of Fishery and Aquatic Sciences | Diversity & Distributions | Ecology | Ecology and Evolution | Ecology Letters | Environmental Biology of Fishes | Fisheries | Fish and Fisheries | Functional Ecology | Global Ecology and Biogeography | ICES Journal of Marine Science | Nature Communications | Nature Ecology and Evolution | Oikos | Peer J | PLOS ONE | Proceedings of the National Academy of Sciences | Proceedings of the Royal Society B | Reviews in Fish Biology and Fisheries | Science | Science Advances | Scientific Reports
 
 Proposals: External evaluation of PhD proposal at Ifremer\hfill 2022
 
