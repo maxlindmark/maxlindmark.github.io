@@ -77,7 +77,7 @@ Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Cogh
 
 2\. **Lindmark, M.**, Ohlberger, J., Huss, M. G&aring;rdmark, A. 2019. Size-based ecological interactions determine effects of warming on food web stability. *Ecology Letters*, 22(5), pp. 778--786. <https://doi.org/10.1111/ele.13235>
 
-1\. **Lindmark, M.**, Huss, M., Ohlberger, J. G&aring;rdmark, A. 2018. Temperature-dependent body size effects determine population responses to climate warming. *Ecology letters*, 21(2), pp. 181--189. <https://doi.org/10.1111/ele.12880>
+1\. **Lindmark, M.**, Huss, M., Ohlberger, J. G&aring;rdmark, A. 2018. Temperature-dependent body size effects determine population responses to climate warming. *Ecology Letters*, 21(2), pp. 181--189. <https://doi.org/10.1111/ele.12880>
 
 ### Reports
 
