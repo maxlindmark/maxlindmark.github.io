@@ -34,7 +34,7 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
-Nor&eacute;n, K., Svensson, F., **Lindmark, M.**. 2025. Evaluating the potential of underwater television to contribute to marine litter assessments alongside bottom trawling. *EarthArXiv*, <https://doi.org/10.31223/X5GB06>
+Nor&eacute;n, K., Svensson, F., **Lindmark, M.** 2025. Evaluating the potential of underwater television to contribute to marine litter assessments alongside bottom trawling. *EarthArXiv*, <https://doi.org/10.31223/X5GB06>
 
 **Lindmark, M.**, Anderson, S.C., Thorson, J. 2024. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *bioRxiv*, <https://doi.org/10.1101/2024.12.17.628864>
 
