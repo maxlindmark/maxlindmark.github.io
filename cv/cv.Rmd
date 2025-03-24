@@ -119,11 +119,11 @@ Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Cogh
 
 **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2024. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *bioRxiv*, <https://doi.org/10.1101/2024.04.22.590538>
 
-**Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Stronger effect of temperature on body growth in cool than in warm populations suggests lack of local adaptation. *bioRxiv*, <https://doi.org/10.1101/2024.01.17.575983>. * Dual first authorship
-
 _Papers are removed from here when published in open access journal_
 
 [_Publications_]
+
+17\. **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2024. Stronger effect of temperature on body growth in cool than in warm populations suggests lack of local adaptation. *Ecography*. Accepted. * Dual first authorship.
 
 16\. Ortega-Cisneros, K., Arcos, L.D.F,  **Lindmark, M.**\*, [...] Blanchard, J.L. 2024. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. *Earth's Future*. 13(2) <https://doi.org/10.1029/2024EF004826>. _Author list truncated_ \*3/40
 
