@@ -123,7 +123,7 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
-18\. Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Global Change Biology*, Accepted.
+18\. Audzijonyte, A., Andersen, K.H., Atkinson, D., Bigman, J., Blanchard, J.L., Coghlan, A.R., Heather, F., **Lindmark, M.**, Morrongiello, J.R., Pauly, D. 2024. Temperature affects fish body sizes. Which sizes? *Global Change Biology*. 31(6), e70296. <https://doi.org/10.1111/gcb.70296>
 
 17\. **Lindmark, M.**\*, Ohlberger, J.\*, G&aring;rdmark, A. 2025. Stronger effect of temperature on body growth in cool than in warm populations suggests lack of local adaptation. *Ecography*. Early view. <https://doi.org/10.1002/ecog.07518> * Dual first authorship.
 
