@@ -34,6 +34,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
+**Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2025. Reduced size of larvae and small fish linked to warming and reduced prey density. *bioRxiv*, <https://doi.org/10.1101/2025.06.27.661664>
+
 **Lindmark, M.**, Griffiths, C.A., Bartolino, V., Thunell, V., Maioli, F., Anderson, S.C., Belgrano, A., Casini, M., Nadolna-A&lstrok;tyn, K., Pawlak, J., Pachur, M., Rakowski, M., Wikstr&ouml;m, K., Thompson, S.A.M., Gogina, M., Ustups, D., Jacobsen, N.S. 2025. Weak effects of local prey density and spatial overlap on predation intensity in a temperate marine ecosystem. *bioRxiv*, <https://doi.org/10.1101/2025.03.27.645454>
 
 **Lindmark, M.**, Anderson, S.C., Thorson, J. 2024. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *bioRxiv*, <https://doi.org/10.1101/2024.12.17.628864>
