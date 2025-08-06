@@ -360,7 +360,13 @@ ontogenetic asymmetry shape warming responses of size structured populations*
 
 WGGRAFY\hfill 2020-present\
 Chair of joint ICES/PICES Working Group on Impacts of Warming on Growth Rates\
-and Fisheries Yields (WGGRAFY)
+and Fisheries Yields
+
+WGECOBAL\hfill 2025-present\
+Member of Ecosystem-Based Fisheries Management of the Western Baltic Sea
+
+WGBIFS\hfill 2025-present\
+Member of the Baltic International Fish Survey Working Group
 
 ```{=tex}
 \setlength{\parindent}{0in}
