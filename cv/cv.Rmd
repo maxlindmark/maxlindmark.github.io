@@ -301,7 +301,7 @@ Gulf of Maine Research Institute May Seminar (GMRI) (video)\hfill May 2021\
 ```
 \noindent
 
-PICES-2023 Annual Meeting (Seattle)\hfill October 2023\
+PICES Annual Meeting (Seattle)\hfill October 2023\
 *Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations*
 
 PICES 5th International Symposium on the Effects of Climate Change \hfill 2023\
