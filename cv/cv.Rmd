@@ -303,8 +303,13 @@ Gulf of Maine Research Institute May Seminar (GMRI) (video)\hfill May 2021\
 ```
 \noindent
 
-PICES Annual Meeting, Seattle (Talk) \hfill October 2023\
-*Non-linear growth-temperature relationship leads to opposite responses to warming in cold versus warm populations*
+ICES ASC, Klaipeda (Talk) \hfill 2025\
+*Weak effects of local prey density and spatial overlap on predation intensity\
+in a temperate marine ecosystem*
+
+PICES Annual Meeting, Seattle (Talk) \hfill 2023\
+*Non-linear growth-temperature relationship leads to opposite responses to\
+warming in cold versus warm populations*
 
 PICES 5th International Symposium on the Effects of Climate Change \hfill 2023\
 on the World's Ocean ECCWO-5, Bergen (Talk) \
@@ -318,7 +323,7 @@ ICES ASC (Remote talk)\hfill 2022\
 *Higher mortality rates leave heated ecosystem with similar size structure despite larger,\
 younger, and faster growing fish*
 
-ICES/PICES Early Career Scientist Conference (Talk)\hfill 2022\
+ICES/PICES Early Career Scientist Conference, St. John's (NL) (Talk)\hfill 2022\
 *Evaluating drivers of spatiotemporal changes in the condition of Eastern Baltic cod*
 
 Swedish Oikos Meeting, Online (Talk)\hfill 2021\
