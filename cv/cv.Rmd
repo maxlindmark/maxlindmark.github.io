@@ -117,7 +117,7 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
-22\. **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2025. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *Canadian Journal of Fisheries and Aquatic Sciences*, early view. <https://doi.org/10.1139/cjfas-2025-0064>
+22\. **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2025. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *Canadian Journal of Fisheries and Aquatic Sciences*. 82, 1???15. <https://doi.org/10.1139/cjfas-2025-0064>
 
 21\. **Lindmark, M.**, Anderson, S.C., Thorson, J. 2025. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *Methods in Ecology and Evolution*, early view. <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.70177>
 
