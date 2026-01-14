@@ -34,6 +34,8 @@ My CV is available as a [pdf](cv.pdf), but also below
 
 _Papers are removed from here when published open access_
 
+Thorson, J. T., Anderson, S. C., & **Lindmark, M**. (2026). Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *EcoEvoRxiv*, <https://ecoevorxiv.org/repository/view/11419/>
+
 **Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2025. Reduced size of larvae and small fish linked to warming and reduced prey density. *bioRxiv*, <https://doi.org/10.1101/2025.06.27.661664>
 
 
