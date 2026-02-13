@@ -41,6 +41,8 @@ Thorson, J. T., Anderson, S. C., **Lindmark, M**. (2026). Temperature carryover 
 
 #### Publications
 
+23\. Philpott, D., N&auml;slund, J., Donadi, S., **Lindmark, M.**, Vasem&auml;gi, A. (2026). Large-scale spatial analyses reveal hotspots of proliferative kidney disease in brown trout and interactive effects of temperature and parasite load. *Knowledge & Management of Aquatic Ecosystems*. (427), 8. <https://doi.org/10.1051/kmae/2026002>
+
 22\. **Lindmark, M.**, Anderson, S.C., Thorson, J. 2026. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *Methods in Ecology and Evolution*. 17(1), 207--218. <https://doi.org/10.1111/2041-210x.70177>
 
 21\. **Lindmark, M.**, Maioli, M., Anderson, S.C., Gogina, M., Bartolino, V., Sk&ouml;ld, M., Ohlsson, M., Ekl&ouml;f, A., Casini, M. 2025. Quantifying competition between two demersal fish species from spatiotemporal stomach content data. *Canadian Journal of Fisheries and Aquatic Sciences*. 82, 1--15. <https://doi.org/10.1139/cjfas-2025-0064>
