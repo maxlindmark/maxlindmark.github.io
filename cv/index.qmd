@@ -89,6 +89,8 @@ Thorson, J. T., Anderson, S. C., **Lindmark, M**. (2026). Temperature carryover 
 
 ### Reports
 
+8. ICES. (2026). Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2025 meeting) [Report]. ICES Scientific Reports. <https://doi.org/10.17895/ices.pub.31224250.v2>
+
 7\. RCG NANSEA RCG Baltic 2025. Regional Coordination Group North Atlantic, North Sea & Eastern Arctic and Regional Coordination Group Baltic. 2025. Part I Report, 72 pgs. Part II Decisions and Recommendations, 11 pgs. Part III, Intersessional Subgroup (ISSG) 2024-2025 Reports, 157 pgs.
 
 6\. ICES. 2024. Joint ICES-PICES Working Group on Impacts of Warming on Growth Rates and Fisheries Yields (WGGRAFY; outputs from 2023 meeting). ICES  Scientific Reports. 6:70. 48 pp. <https://doi.org/10.17895/ices.pub.26356351>
@@ -198,6 +200,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
+| Andreas Andersen, Uppsala University. Supervisor for project: *Spatiotemporal dynamics of cormorants in Sweden* | 2026 |
 | Julia Cao Sanchez, Uppsala University. Main supervisor for project: *Joint species distribution modelling of benthic invertebrate communities* | 2023 |
 | Leo Sheils, Uppsala University. Main supervisor for project: *Effects of warming on fish growth and body size* | 2023 |
 | Malin Karlsson, Swedish University of Agricultural Sciences. Main supervisor for project: *The effect of temperature on life history traits of perch (Perca fluviatilis) in a large scale natural climate change experiment and its implications for population age- and size structure?* | 2019--2020 |
