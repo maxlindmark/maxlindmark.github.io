@@ -111,9 +111,11 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 [_Preprints_]
 
-Thorson, J. T., Anderson, S. C., **Lindmark, M**. (2026). Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *EcoEvoRxiv*, <https://ecoevorxiv.org/repository/view/11419/>
+Maioli, F., Denderen, P. D. van, **Lindmark, M.**, Montany&egrave;s, M., Ward, E. J., Anderson, S. C., & Lindegren, M. (2026). Thermal niche warming is more consistent than range shifts in marine species under climate change. *bioRxiv*. <https://doi.org/10.64898/2026.02.18.706571>
 
-**Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2025. Reduced size of larvae and small fish linked to warming and reduced prey density. *bioRxiv*, <https://doi.org/10.1101/2025.06.27.661664>
+Thorson, J. T., Anderson, S. C., **Lindmark, M**. (2026). Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *EcoEvoRxiv*. <https://ecoevorxiv.org/repository/view/11419/>
+
+**Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2025. Reduced size of larvae and small fish linked to warming and reduced prey density. *bioRxiv*. <https://doi.org/10.1101/2025.06.27.661664>
 
 _Papers are removed from here when published in open access journal_
 
