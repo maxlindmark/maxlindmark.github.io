@@ -168,6 +168,7 @@ Resurs&ouml;versikt
 | **WGSAM**. Member of Working Group on Multispecies Assessment Methods | 2025-- |
 | **WGECOBAL**. Member of Ecosystem-Based Fisheries Management of the Western Baltic Sea | 2025-- |
 | **WGBIFS**. Member of the Baltic International Fish Survey Working Group | 2025-- |
+| **WGISDAA**. Member of the Working Group on Improving use of Survey Data for Assessment and Advice | 2025-- |
 
 
 ### Teaching

@@ -386,6 +386,9 @@ Member of Ecosystem-Based Fisheries Management of the Western Baltic Sea
 WGBIFS\hfill 2025-present\
 Member of the Baltic International Fish Survey Working Group
 
+WGISDAA\hfill 2025-present\
+Member of the Working Group on Improving use of Survey Data for Assessment and Advice 
+
 ```{=tex}
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
