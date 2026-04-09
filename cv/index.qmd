@@ -91,7 +91,7 @@ Thorson, J. T., Anderson, S. C., **Lindmark, M**. 2026. Temperature carryover ef
 
 ### Reports
 
-8. ICES. (2026). Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2025 meeting) [Report]. ICES Scientific Reports. <https://doi.org/10.17895/ices.pub.31224250.v2>
+8\. ICES. (2026). Working Group on Multispecies Assessment Methods (WGSAM; outputs from 2025 meeting) [Report]. ICES Scientific Reports. <https://doi.org/10.17895/ices.pub.31224250.v2>
 
 7\. RCG NANSEA RCG Baltic 2025. Regional Coordination Group North Atlantic, North Sea & Eastern Arctic and Regional Coordination Group Baltic. 2025. Part I Report, 72 pgs. Part II Decisions and Recommendations, 11 pgs. Part III, Intersessional Subgroup (ISSG) 2024-2025 Reports, 157 pgs.
 
