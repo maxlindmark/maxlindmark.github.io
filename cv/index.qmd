@@ -175,6 +175,7 @@ Resurs&ouml;versikt
 
 ||||
 |:------------|-:|
+| *Climate change and the ocean*. Course leader. Online course together with UiB (NOR) & SUNY ESF (US) | 2026 |
 | *Bl&aring; omst&auml;llning f&ouml;r h&aring;llbara hav och vatten ("Blue transformation for sustainable oceans")*. Lecture on global and national fisheries <https://github.com/maxlindmark/MOOC-course> | 2024 |
 | *Principles in Fisheries Science*. Teaching assistant. Wrote R lab Impacts of fishing in an ecological context. Lecture on ecological interactions. <https://github.com/maxlindmark/pfs> | 2018-- |
 | *Sustainability perspectives on contemporary fisheries. Where have all the fishes gone?* Teaching assistant. Lecture on climate impacts on global fisheries | 2019 |

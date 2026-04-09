@@ -404,6 +404,8 @@ Member of the Working Group on Improving use of Survey Data for Assessment and A
 \setlength{\parskip}{8pt}
 ```
 \noindent
+*Climate change and the ocean*\hfill 2026\
+LCourse leader. Online course together with UiB (NOR) & SUNY ESF (US)
 
 *Bl&aring; omst&auml;llning f&ouml;r h&aring;llbara hav och vatten ("Blue transformation for sustainable oceans")*\hfill 2024\
 Lecture on global and national fisheries <https://github.com/maxlindmark/MOOC-course>
