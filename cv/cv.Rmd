@@ -121,6 +121,8 @@ _Papers are removed from here when published in open access journal_
 
 [_Publications_]
 
+24\. Smoli&#324;ski, S., Radtke, K., **Lindmark, M.**, Orio, A., & Tanaka, K. 2026. New ecological insights using size-specific species distribution models. *ICES Journal of Marine Science*, 83(5), fsag065. <https://doi.org/10.1093/icesjms/fsag065>
+
 23\. Philpott, D., N&auml;lund, J., Donadi, S., **Lindmark, M.**, Vasem&auml;gi, A. 2026. Large-scale spatial analyses reveal hotspots of proliferative kidney disease in brown trout and interactive effects of temperature and parasite load. *Knowledge & Management of Aquatic Ecosystems*. (427), 8. <https://doi.org/10.1051/kmae/2026002>
 
 22\. **Lindmark, M.**, Anderson, S.C., Thorson, J. 2026. Estimating scale-dependent covariate responses using two-dimensional diffusion derived from the SPDE method. *Methods in Ecology and Evolution*. 17(1), 207--218. <https://doi.org/10.1111/2041-210x.70177>
