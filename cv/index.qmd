@@ -208,6 +208,7 @@ All lab material written by me is available on this github repository:\
 
 ||||
 |:------------|-:|
+| Mobai Zhang, Swedish University of Agricultural Sciences. Supervisor for project: *Spatiotemporal changes in size-Dependent predation of eastern Baltic cod on sprat and herring* | 2026 |
 | Andreas Andersen, Uppsala University. Supervisor for project: *Spatiotemporal dynamics of cormorants in Sweden* | 2026 |
 | Julia Cao Sanchez, Uppsala University. Main supervisor for project: *Joint species distribution modelling of benthic invertebrate communities* | 2023 |
 | Leo Sheils, Uppsala University. Main supervisor for project: *Effects of warming on fish growth and body size* | 2023 |
