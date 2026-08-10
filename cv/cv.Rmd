@@ -61,7 +61,10 @@ Turistgatan 5\hfill max.lindmark@tuta.io \
 ```
 \noindent
 
-Researcher\hfill 2022--\
+Associate Professor\hfill 2026--\
+Swedish University of Agricultural Sciences, Institute of Marine Research 
+
+Researcher\hfill 2022--2026\
 Swedish University of Agricultural Sciences, Institute of Marine Research 
 
 Post-doctoral researcher\hfill 2020--2022\

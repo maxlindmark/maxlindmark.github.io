@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: "**Max Lindmark** <br> Researcher <br> Institute of Marine Research <br> Swedish University of Agricultural Sciences (SLU)"
+subtitle: "**Max Lindmark** <br> Associate Professor <br> Institute of Marine Research <br> Swedish University of Agricultural Sciences (SLU)"
 image: avatar_old.jpg
 about:
   template: trestles
