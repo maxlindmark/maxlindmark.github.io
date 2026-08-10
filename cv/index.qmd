@@ -134,7 +134,15 @@ Resurs&ouml;versikt
 | **Fishmonger's Award** Scholarship recipient: Full fees payment (£3400) awarded to 1 MRes/MSc student on academic merit by the Fishmonger's Company | 2014 |
 | **Gothenburg Biological Society** Stipend for well accomplished bachelor's thesis: *By-catch in pelagic fisheries: A study on by-catch in Swedish herring fisheries on the west coast in the winter of 2013/2014* | 2014 |
 
- 
+### Software
+
+[**stomachr**](https://github.com/maxlindmark/stomachr)
+
+||||
+|:------------|-:|
+| [**stomachr**](https://github.com/maxlindmark/stomachr) is a package that downloads ICES stomach content data and provides tools for merging, enriching, imputing, trimming, quality-checking and filtering stomach data from the ICES stomach database. It's meant to complement the FishStomachs R package, by working directly from the new ICES stomach database and the new format, as well as focusing more the actual data preparation and general use, rather then preparing aggregated stomachs for the SMS model. | 2026 |
+
+
 ### Invited talks
 
 ||||
