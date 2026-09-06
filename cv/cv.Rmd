@@ -113,6 +113,8 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 
 [_Preprints_]
 
+Maioli, F., Vitale, F, **Lindmark, M.**, Orio, A., Berg, C. W., Lindegren, M., Deurs, M. v. & Mildenberger, T. 2026. Empirical Length-at-Maturity for Northeast Atlantic Marine Fishes. *Research Square*. <https://doi.org/10.21203/rs.3.rs-10856339/v1>
+
 Maioli, F., Denderen, P. D. van, **Lindmark, M.**, Montany&egrave;s, M., Ward, E. J., Anderson, S. C., & Lindegren, M. 2026. Thermal niche warming is more consistent than range shifts in marine species under climate change. *bioRxiv*. <https://doi.org/10.64898/2026.02.18.706571>
 
 Thorson, J. T., Anderson, S. C., **Lindmark, M**. 2026. Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *EcoEvoRxiv*. <https://ecoevorxiv.org/repository/view/11419/>
