@@ -111,21 +111,21 @@ BSc. Biology, University of Gothenburg\hfill 2011--2014
 ```
 \noindent
 
-[_Preprints_]
+[_Current preprints_]
 
 Maioli, F., Vitale, F, **Lindmark, M.**, Orio, A., Berg, C. W., Lindegren, M., Deurs, M. v. & Mildenberger, T. 2026. Empirical Length-at-Maturity for Northeast Atlantic Marine Fishes. *Research Square*. <https://doi.org/10.21203/rs.3.rs-10856339/v1>
 
 Maioli, F., Denderen, P. D. van, **Lindmark, M.**, Montany&egrave;s, M., Ward, E. J., Anderson, S. C., & Lindegren, M. 2026. Thermal niche warming is more consistent than range shifts in marine species under climate change. *bioRxiv*. <https://doi.org/10.64898/2026.02.18.706571>
 
-Thorson, J. T., Anderson, S. C., **Lindmark, M**. 2026. Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *EcoEvoRxiv*. <https://ecoevorxiv.org/repository/view/11419/>
-
-_Papers are removed from here when published in open access journal_
-
 [_Publications_]
 
-26\. **Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2026. Reduced size of larvae and small fish linked to warming and reduced prey density. *Ecography*. Accepted
+28\. Thorson, J. T., Anderson, S. C., **Lindmark, M**. 2026. Temperature carryover effect revealed for marine fishes using spatio-temporal distributed lag models. *Global Change Biology*, 32(11), e71167. <https://doi.org/10.1111/gcb.71167>
 
-25\. Hansen. H. H., Erickson, J., **Lindmark, M.**, McPhan, L., Humphries, P., Bergman, E. 2026. A River Wave Framework to Unify River Ecosystem Concepts and Predict Ecological Change. *Nature Water*. Accepted
+27\. Smoli&#324;ski, S., Masnadi, F., Cardinale, M., Bartolino, V., **Lindmark, M**, Haase, S., Go&#241;i, N., Aleksejeva, J., & Bergenius-Nord, M. (2026). Environmental and anthropogenic factors regulating spatiotemporal variation in length-at-age and condition of herring (Clupea harengus) in the Central Baltic Sea. *ICES Journal of Marine Science*, 83(10), fsag205. <https://doi.org/10.1093/icesjms/fsag205>
+
+26\. **Lindmark, M.**, Werner, M., Thor, P., Maioli, F., Quesada, E., Bartolino, V., Jacobson, P. 2026. Reduced size of larvae and small fish linked to warming and reduced prey density. *Ecography*. Early view. <https://doi.org/10.1002/ecog.08354>
+
+25\. Hansen. H. H., Erickson, J., **Lindmark, M.**, McPhan, L., Humphries, P., Bergman, E. 2026. A River Wave Framework to Unify River Ecosystem Concepts and Predict Ecological Change. *Nature Water*, 1(11). <https://doi.org/10.1038/s44221-026-00721-x>
 
 24\. Smoli&#324;ski, S., Radtke, K., **Lindmark, M.**, Orio, A., & Tanaka, K. 2026. New ecological insights using size-specific species distribution models. *ICES Journal of Marine Science*, 83(5), fsag065. <https://doi.org/10.1093/icesjms/fsag065>
 
